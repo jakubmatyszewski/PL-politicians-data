@@ -50,9 +50,9 @@ class StanScrapper:
         
         try:
             party = self.body.find_element(By.CSS_SELECTOR, "a[href*='klub']").text
+            print(party)
         except NoSuchElementException:
-            party_container = self.body.find_element(By.ID, "lblKlub").parent
-            party = party_container.find_element(By.CLASS_NAME, "right").text
+            party = self.body.find_element(By.XPATH, "//p[@id = 'lblKlub']/following-sibling::p[1]").text
 
         birth = self.body.find_element(By.ID, "urodzony").text
         age = self.get_age(birth)
