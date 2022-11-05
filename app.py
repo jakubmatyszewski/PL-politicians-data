@@ -46,11 +46,13 @@ class StanScrapper:
             self.running = False
             return ()
         
+        if self.check_if_rip():
+            name = '✝ ' + name
+        
         district = self.body.find_element(By.ID, "okreg").text
         
         try:
             party = self.body.find_element(By.CSS_SELECTOR, "a[href*='klub']").text
-            print(party)
         except NoSuchElementException:
             party = self.body.find_element(By.XPATH, "//p[@id = 'lblKlub']/following-sibling::p[1]").text
 
@@ -80,7 +82,16 @@ class StanScrapper:
         today = date.today()
         age = today.year - byear - ((today.month, today.day) < (bmonth, bday))
         return age
-    
+
+    def check_if_rip(self) -> bool:
+        """Check if politician passed away."""
+        try:
+            self.driver.find_element(By.XPATH, '//*[contains(text(), "Zmarł")]')
+        except NoSuchElementException:
+            return False
+        else:
+            return True
+
     def write_to_csv(self, data: list) -> None:
         """Write gathered output to csv file."""
         header = ["name", "district", "party", "age", "email"]
