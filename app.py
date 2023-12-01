@@ -32,7 +32,7 @@ class StanScrapper:
         Direct `driver` to a page based on id (example id: `001`).
         Grab element of interest as `body`.
         """
-        url = "https://sejm.gov.pl/Sejm9.nsf/posel.xsp?id={:03d}".format(uid)
+        url = "https://sejm.gov.pl/Sejm10.nsf/posel.xsp?id={:03d}".format(uid)
         self.driver.get(url)
         self.body = self.driver.find_element(By.ID, "title_content")
         logging.info(f"Browser driver jumped to {uid} page.")
