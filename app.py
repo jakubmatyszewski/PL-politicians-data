@@ -77,7 +77,7 @@ class StanScrapper:
     def get_age(self, birth_info: str) -> int:
         """Compute politician's age."""
         try:
-            bdate, _ = birth_info.split(",")
+            bdate = birth_info.split(",")[0]
         except ValueError:
             # There is no birth place given
             bdate = birth_info
