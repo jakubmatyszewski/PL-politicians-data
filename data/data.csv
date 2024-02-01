@@ -1,463 +1,462 @@
-name,district,party,gender,age,email
-Andrzej Adamczyk,13  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,male,64,Andrzej.Adamczyk@sejm.pl
-Piotr Adamowicz,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,62,Piotr.Adamowicz@sejm.pl
-Adam Andruszkiewicz,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,male,33,Adam.Andruszkiewicz@sejm.pl
-Waldemar Andzel,32  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,male,52,Waldemar.Andzel@sejm.pl
-Dorota Arciszewska-Mielewczyk,26  Słupsk,Klub Parlamentarny Prawo i Sprawiedliwość,female,55,Dorota.Arciszewska-Mielewczyk@sejm.pl
-Jan Krzysztof Ardanowski,5  Toruń,Klub Parlamentarny Prawo i Sprawiedliwość,male,62,Jan.Ardanowski@sejm.pl
-Iwona Ewa Arent,35  Olsztyn,Klub Parlamentarny Prawo i Sprawiedliwość,female,55,Iwona.Arent@sejm.pl
-Bartosz Arłukowicz,40  Koszalin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,52,Bartosz.Arlukowicz@sejm.pl
-Marek Ast,8  Zielona Góra,Klub Parlamentarny Prawo i Sprawiedliwość,male,65,Marek.Ast@sejm.pl
-Urszula Augustyn,15  Tarnów,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,59,Urszula.Augustyn@sejm.pl
-Piotr Babinetz,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,male,54,Piotr.Babinetz@sejm.pl
-Ryszard Bartosik,37  Konin,Klub Parlamentarny Prawo i Sprawiedliwość,male,55,Ryszard.Bartosik@sejm.pl
-Władysław Bartoszewski,19  Warszawa,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,68,Wladyslaw.Bartoszewski@sejm.pl
-Barbara Bartuś,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,female,56,Barbara.Bartus@sejm.pl
-Paweł Bejda,11  Sieradz,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,61,Pawel.Bejda@sejm.pl
-Konrad Berkowicz,13  Kraków,Klub Poselski Konfederacja,male,39,Konrad.Berkowicz@sejm.pl
-Sylwia Bielawska,2  Wałbrzych,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,48,Sylwia.Bielawska@sejm.pl
-Marek Biernacki,26  Słupsk,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,64,Marek.Biernacki@sejm.pl
-Paweł Bliźniuk,9  Łódź,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,37,Pawel.Blizniuk@sejm.pl
-Mariusz Błaszczak,20  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,male,54,Mariusz.Blaszczak@sejm.pl
-Mateusz Bochenek,32  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,30,Mateusz.Bochenek@sejm.pl
-Rafał Bochenek,12  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,male,37,Rafal.Bochenek@sejm.pl
-Izabela Bodnar,3  Wrocław,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,48,Izabela.Bodnar@sejm.pl
-Jacek Bogucki,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,male,64,Jacek.Bogucki@sejm.pl
-Zbigniew Bogucki,41  Szczecin,Klub Parlamentarny Prawo i Sprawiedliwość,male,43,Zbigniew.Bogucki@sejm.pl
-Krzysztof Bojarski,6  Lublin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,55,Krzysztof.Bojarski@sejm.pl
-Joanna Borowiak,5  Toruń,Klub Parlamentarny Prawo i Sprawiedliwość,female,56,Joanna.Borowiak@sejm.pl
-Kamil Bortniczuk,16  Płock,Klub Parlamentarny Prawo i Sprawiedliwość,male,40,Kamil.Bortniczuk@sejm.pl
-Piotr Borys,1  Legnica,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,47,Piotr.Borys@sejm.pl
-Bożena Borys-Szopa,29  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,female,69,Bozena.Borys-Szopa@sejm.pl
-Marcin Bosacki,39  Poznań,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,53,Marcin.Bosacki@sejm.pl
-Karina Anna Bosak,20  Warszawa,Klub Poselski Konfederacja,female,35,Karina.Bosak@sejm.pl
-Krzysztof Bosak,24  Białystok,Klub Poselski Konfederacja,male,41,Krzysztof.Bosak@sejm.pl
-Grzegorz Braun,23  Rzeszów,Klub Poselski Konfederacja,male,56,Grzegorz.Braun@sejm.pl
-Krzysztof Brejza,4  Bydgoszcz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,40,Krzysztof.Brejza@sejm.pl
-Agnieszka Buczyńska,25  Gdańsk,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,37,Agnieszka.Buczynska@sejm.pl
-Waldemar Buda,9  Łódź,Klub Parlamentarny Prawo i Sprawiedliwość,male,41,Waldemar.Buda@sejm.pl
-Borys Budka,31  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,45,Borys.Budka@sejm.pl
-Elżbieta Burkiewicz,23  Rzeszów,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,59,Elzbieta.Burkiewicz@sejm.pl
-Lidia Burzyńska,28  Częstochowa,Klub Parlamentarny Prawo i Sprawiedliwość,female,59,Lidia.Burzynska@sejm.pl
-Marek Jan Chmielewski,2  Wałbrzych,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,61,Marek.Chmielewski@sejm.pl
-Zbigniew Chmielowiec,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,male,69,Zbigniew.Chmielowiec@sejm.pl
-Artur Chojecki,35  Olsztyn,Klub Parlamentarny Prawo i Sprawiedliwość,male,49,Artur.Chojecki@sejm.pl
-Kazimierz Bogusław Choma,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,male,66,Kazimierz.Choma@sejm.pl
-Dominika Chorosińska,20  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,female,45,Dominika.Chorosinska@sejm.pl
-Tadeusz Chrzan,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,male,60,Tadeusz.Chrzan@sejm.pl
-Alicja Chybicka,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,72,Alicja.Chybicka@sejm.pl
-Anna Ewa Cicholska,16  Płock,Klub Parlamentarny Prawo i Sprawiedliwość,female,61,Anna.Cicholska@sejm.pl
-Janusz Cichoń,35  Olsztyn,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,66,Janusz.Cichon@sejm.pl
-Krzysztof Ciecióra,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,male,34,Krzysztof.Cieciora@sejm.pl
-Janusz Cieszyński,35  Olsztyn,Klub Parlamentarny Prawo i Sprawiedliwość,male,35,Janusz.Cieszynski@sejm.pl
-Michał Cieślak,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,male,49,Michal.Cieslak@sejm.pl
-Żaneta Cwalina-Śliwowska,18  Siedlce,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,45,Zaneta.Cwalina-Sliwowska@sejm.pl
-Krzysztof Czarnecki,38  Piła,Klub Parlamentarny Prawo i Sprawiedliwość,male,66,Krzysztof.Czarnecki@sejm.pl
-Witold Wojciech Czarnecki,37  Konin,Klub Parlamentarny Prawo i Sprawiedliwość,male,70,Witold.Czarnecki@sejm.pl
-Przemysław Czarnek,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,male,46,Przemyslaw.Czarnek@sejm.pl
-Arkadiusz Czartoryski,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,male,57,Arkadiusz.Czartoryski@sejm.pl
-Włodzimierz Czarzasty,32  Katowice,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,63,Wlodzimierz.Czarzasty@sejm.pl
-Jacek Czerniak,6  Lublin,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,59,Jacek.Czerniak@sejm.pl
-Zofia Czernow,1  Legnica,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,73,Zofia.Czernow@sejm.pl
-Anita Czerwińska,20  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,female,53,Anita.Czerwinska@sejm.pl
-Katarzyna Czochara,21  Opole,Klub Parlamentarny Prawo i Sprawiedliwość,female,54,Katarzyna.Czochara@sejm.pl
-Sławomir Ćwik,7  Chełm,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,51,Slawomir.Cwik@sejm.pl
-Władysław Dajczak,8  Zielona Góra,Klub Parlamentarny Prawo i Sprawiedliwość,male,64,Wladyslaw.Dajczak@sejm.pl
-Anna Dąbrowska-Banaszek,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,female,62,Anna.Dabrowska-Banaszek@sejm.pl
-Zbigniew Dolata,37  Konin,Klub Parlamentarny Prawo i Sprawiedliwość,male,58,Zbigniew.Dolata@sejm.pl
-Barbara Dolniak,32  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,63,Barbara.Dolniak@sejm.pl
-Andrzej Domański,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,42,Andrzej.Domanski@sejm.pl
-Bartłomiej Dorywalski,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,male,44,Bartlomiej.Dorywalski@sejm.pl
-Robert Dowhan,8  Zielona Góra,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,56,Robert.Dowhan@sejm.pl
-Przemysław Drabek,27  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,male,44,Przemyslaw.Drabek@sejm.pl
-Elżbieta Duda,13  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,female,61,Elzbieta.Duda@sejm.pl
-Michał Paweł Dworczyk,2  Wałbrzych,Klub Parlamentarny Prawo i Sprawiedliwość,male,48,Michal.Dworczyk@sejm.pl
-Adam Dziedzic,23  Rzeszów,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,54,Adam.Dziedzic@sejm.pl
-Jan Michał Dziedziczak,36  Kalisz,Klub Parlamentarny Prawo i Sprawiedliwość,male,42,Jan.Dziedziczak@sejm.pl
-Agnieszka Dziemianowicz-Bąk,26  Słupsk,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,39,Agnieszka.Dziemianowicz-Bak@sejm.pl
-Magdalena Filiks,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,45,Magdalena.Filiks@sejm.pl
-Magdalena Filipek-Sobczak,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,female,40,Magdalena.Filipek-Sobczak@sejm.pl
-Radosław Fogiel,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,male,41,Radoslaw.Fogiel@sejm.pl
-Bronisław Foltyn,27  Bielsko-Biała,Klub Poselski Konfederacja,male,49,Bronislaw.Foltyn@sejm.pl
-Roman Fritz,30  Bielsko-Biała,Klub Poselski Konfederacja,male,57,Roman.Fritz@sejm.pl
-Joanna Frydrych,22  Krosno,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,45,Joanna.Frydrych@sejm.pl
-Konrad Frysztak,17  Radom,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,37,Konrad.Frysztak@sejm.pl
-Patryk Gabriel,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,46,Patryk.Gabriel@sejm.pl
-Krzysztof Gadowski,30  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,61,Krzysztof.Gadowski@sejm.pl
-Aleksandra Gajewska,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,34,Aleksandra.Gajewska@sejm.pl
-Kinga Gajewska,20  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,33,Kinga.Gajewska@sejm.pl
-Elżbieta Gapińska,16  Płock,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,63,Elzbieta.Gapinska@sejm.pl
-Kamila Gasiuk-Pihowicz,18  Siedlce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,40,Kamila.Gasiuk-Pihowicz@sejm.pl
-Krzysztof Gawkowski,4  Bydgoszcz,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,43,Krzysztof.Gawkowski@sejm.pl
-Zdzisław Gawlik,23  Rzeszów,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,63,Zdzislaw.Gawlik@sejm.pl
-Andrzej Gawron,28  Częstochowa,Klub Parlamentarny Prawo i Sprawiedliwość,male,58,Andrzej.Gawron@sejm.pl
-Grzegorz Gaża,27  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,male,51,Grzegorz.Gaza@sejm.pl
-Elżbieta Gelert,34  Elbląg,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,68,Elzbieta.Gelert@sejm.pl
-Anna Gembicka,5  Toruń,Klub Parlamentarny Prawo i Sprawiedliwość,female,32,Anna.Gembicka@sejm.pl
-Artur Daniel Gierada,33  Kielce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,44,Artur.Gierada@sejm.pl
-Roman Giertych,33  Kielce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,52,Roman.Giertych@sejm.pl
-Włodzisław Giziński,4  Bydgoszcz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,71,Wlodzislaw.Gizinski@sejm.pl
-Szymon Giżyński,28  Częstochowa,Klub Parlamentarny Prawo i Sprawiedliwość,male,67,Szymon.Gizynski@sejm.pl
-Piotr Gliński,19  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,male,69,Piotr.Glinski@sejm.pl
-Tomasz Głogowski,29  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,49,Tomasz.Glogowski@sejm.pl
-Piotr Głowski,38  Piła,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,56,Piotr.Glowski@sejm.pl
-Marta Golbik,29  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,38,Marta.Golbik@sejm.pl
-Małgorzata Golińska,40  Koszalin,Klub Parlamentarny Prawo i Sprawiedliwość,female,43,Malgorzata.Golinska@sejm.pl
-Kazimierz Gołojuch,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,male,59,Kazimierz.Golojuch@sejm.pl
-Adam Gomoła,21  Opole,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,24,Adam.Gomola@sejm.pl
-Robert Gontarz,34  Elbląg,Klub Parlamentarny Prawo i Sprawiedliwość,male,30,Robert.Gontarz@sejm.pl
-Stanisław Gorczyca,34  Elbląg,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,65,Stanislaw.Gorczyca@sejm.pl
-Mariusz Gosek,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,male,41,Mariusz.Gosek@sejm.pl
-Daria Gosek-Popiołek,13  Kraków,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,38,Daria.Gosek-Popiolek@sejm.pl
-Małgorzata Gosiewska,19  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,female,57,Malgorzata.Gosiewska@sejm.pl
-Piotr Górnikiewicz,15  Tarnów,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,51,Piotr.Gornikiewicz@sejm.pl
-Agnieszka Górska,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,female,48,Agnieszka.Gorska@sejm.pl
-Krzysztof Grabczuk,7  Chełm,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,61,Krzysztof.Grabczuk@sejm.pl
-Jan Grabiec,20  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,51,Jan.Grabiec@sejm.pl
-Marcin Grabowski,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,male,42,Marcin.Grabowski@sejm.pl
-Michał Gramatyka,31  Katowice,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,52,Michal.Gramatyka@sejm.pl
-Małgorzata Gromadzka,7  Chełm,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,38,Malgorzata.Gromadzka@sejm.pl
-Marek Gróbarczyk,41  Szczecin,Klub Parlamentarny Prawo i Sprawiedliwość,male,55,Marek.Grobarczyk@sejm.pl
-Andrzej Grzyb,36  Kalisz,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,67,Andrzej.Grzyb@sejm.pl
-Andrzej Gut-Mostowy,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,male,63,Andrzej.Gut-Mostowy@sejm.pl
-Kazimierz Gwiazdowski,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,male,61,Kazimierz.Gwiazdowski@sejm.pl
-Marcin Gwóźdź,2  Wałbrzych,Klub Parlamentarny Prawo i Sprawiedliwość,male,46,Marcin.Gwozdz@sejm.pl
-Marek Gzik,29  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,52,Marek.Gzik@sejm.pl
-Krzysztof Habura,11  Sieradz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,67,Krzysztof.Habura@sejm.pl
-Agnieszka Hanajczyk,11  Sieradz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,60,Agnieszka.Hanajczyk@sejm.pl
-Iwona Hartwich,5  Toruń,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,53,Iwona.Hartwich@sejm.pl
-Paulina Hennig-Kloska,37  Konin,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,46,Paulina.Hennig-Kloska@sejm.pl
-Krzysztof Hetman,6  Lublin,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,49,Krzysztof.Hetman@sejm.pl
-Czesław Hoc,40  Koszalin,Klub Parlamentarny Prawo i Sprawiedliwość,male,69,Czeslaw.Hoc@sejm.pl
-Zbigniew Hoffmann,37  Konin,Klub Parlamentarny Prawo i Sprawiedliwość,male,60,Zbigniew.Hoffmann@sejm.pl
-Marek Tomasz Hok,40  Koszalin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,70,Marek.Hok@sejm.pl
-Szymon Hołownia,24  Białystok,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,47,Szymon.Holownia@sejm.pl
-Marcin Horała,26  Słupsk,Klub Parlamentarny Prawo i Sprawiedliwość,male,42,Marcin.Horala@sejm.pl
-Łukasz Horbatowski,1  Legnica,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,43,Lukasz.Horbatowski@sejm.pl
-Paweł Hreniak,3  Wrocław,Klub Parlamentarny Prawo i Sprawiedliwość,male,44,Pawel.Hreniak@sejm.pl
-Paweł Jabłoński,30  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,male,37,Pawel.Jablonski@sejm.pl
-Klaudia Jachira,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,35,Klaudia.Jachira@sejm.pl
-Marek Jakubiak,19  Warszawa,Koło Poselskie Kukiz'15,male,64,Marek.Jakubiak@sejm.pl
-Maria Małgorzata Janyska,38  Piła,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,61,Maria.Janyska@sejm.pl
-Michał Jaros,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,42,Michal.Jaros@sejm.pl
-Patryk Jaskulski,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,33,Patryk.Jaskulski@sejm.pl
-Danuta Jazłowiecka,21  Opole,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,66,Danuta.Jazlowiecka@sejm.pl
-Dariusz Joński,9  Łódź,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,44,Dariusz.Jonski@sejm.pl
-Marcin Józefaciuk,9  Łódź,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,41,Marcin.Jozefaciuk@sejm.pl
-Norbert Jakub Kaczmarczyk,15  Tarnów,Klub Parlamentarny Prawo i Sprawiedliwość,male,34,Norbert.Kaczmarczyk@sejm.pl
-Filip Kaczyński,12  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,male,36,Filip.Kaczynski@sejm.pl
-Jarosław Kaczyński,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,male,74,Jaroslaw.Kaczynski@sejm.pl
-Piotr Kaleta,36  Kalisz,Klub Parlamentarny Prawo i Sprawiedliwość,male,55,Piotr.Kaleta@sejm.pl
-Sebastian Kaleta,19  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,male,34,Sebastian.Kaleta@sejm.pl
-Mariusz Kałużny,5  Toruń,Klub Parlamentarny Prawo i Sprawiedliwość,male,37,Mariusz.Kaluzny@sejm.pl
-Mariusz Kamiński,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,male,58,Mariusz.Kaminski@sejm.pl
-Piotr Kandyba,20  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,54,Piotr.Kandyba@sejm.pl
-Jan Kanthak,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,male,32,Jan.Kanthak@sejm.pl
-Fryderyk Sylwester Kapinos,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,male,62,Fryderyk.Kapinos@sejm.pl
-Jacek Karnowski,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,60,Jacek.Karnowski@sejm.pl
-Iwona Karolewska,4  Bydgoszcz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,49,Iwona.Karolewska@sejm.pl
-Rafał Kasprzyk,33  Kielce,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,52,Rafal.Kasprzyk@sejm.pl
-Henryk Kiepura,28  Częstochowa,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,54,Henryk.Kiepura@sejm.pl
-Marcin Kierwiński,16  Płock,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,47,Marcin.Kierwinski@sejm.pl
-Katarzyna Kierzek-Koperska,39  Poznań,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,49,Katarzyna.Kierzek-Koperska@sejm.pl
-Dariusz Klimczak,10  Piotrków Trybunalski,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,43,Dariusz.Klimczak@sejm.pl
-Joanna Kluzik-Rostkowska,17  Radom,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,60,Joanna.Kluzik-Rostkowska@sejm.pl
-Agnieszka Maria Kłopotek,4  Bydgoszcz,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,female,54,Agnieszka.Klopotek@sejm.pl
-Łukasz Kmita,12  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,male,38,Lukasz.Kmita@sejm.pl
-Michał Kobosko,19  Warszawa,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,55,Michal.Kobosko@sejm.pl
-Maria Koc,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,female,59,Maria.Koc@sejm.pl
-Ewa Kołodziej,31  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,45,Ewa.Kolodziej@sejm.pl
-Magdalena Małgorzata Kołodziejczak,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,65,Magdalena.Kolodziejczak@sejm.pl
-Michał Kołodziejczak,37  Konin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,35,Michal.Kolodziejczak@sejm.pl
-Rafał Komarewicz,13  Kraków,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,52,Rafal.Komarewicz@sejm.pl
-Maciej Konieczny,31  Katowice,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,43,Maciej.Konieczny@sejm.pl
-Zbigniew Konwiński,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,49,Zbigniew.Konwinski@sejm.pl
-Władysław Kosiniak-Kamysz,15  Tarnów,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,42,Wladyslaw.Kosiniak-Kamysz@sejm.pl
-Tomasz Kostuś,21  Opole,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,49,Tomasz.Kostus@sejm.pl
-Andrzej Kosztowniak,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,male,47,Andrzej.Kosztowniak@sejm.pl
-Katarzyna Kotula,25  Gdańsk,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,46,Katarzyna.Kotula@sejm.pl
-Paweł Kowal,23  Rzeszów,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,48,Pawel.Kowal@sejm.pl
-Henryk Kowalczyk,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,male,67,Henryk.Kowalczyk@sejm.pl
-Janusz Kowalski,21  Opole,Klub Parlamentarny Prawo i Sprawiedliwość,male,45,Janusz.Kowalski@sejm.pl
-Bartosz Józef Kownacki,4  Bydgoszcz,Klub Parlamentarny Prawo i Sprawiedliwość,male,44,Bartosz.Kownacki@sejm.pl
-Iwona Maria Kozłowska,4  Bydgoszcz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,60,Iwona.Kozlowska@sejm.pl
-Stefan Krajewski,24  Białystok,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,42,Stefan.Krajewski@sejm.pl
-Wiesław Krajewski,15  Tarnów,Klub Parlamentarny Prawo i Sprawiedliwość,male,59,Wieslaw.Krajewski@sejm.pl
-Leonard Krasulski,34  Elbląg,Klub Parlamentarny Prawo i Sprawiedliwość,male,73,Leonard.Krasulski@sejm.pl
-Iwona Małgorzata Krawczyk,1  Legnica,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,58,Iwona.Krawczyk@sejm.pl
-Michał Krawczyk,6  Lublin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,45,Michal.Krawczyk@sejm.pl
-Robert Kropiwnicki,1  Legnica,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,49,Robert.Kropiwnicki@sejm.pl
-Piotr Król,4  Bydgoszcz,Klub Parlamentarny Prawo i Sprawiedliwość,male,49,Piotr.Krol@sejm.pl
-Wojciech Król,31  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,38,Wojciech.Krol@sejm.pl
-Anna Krupka,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,female,42,Anna.Krupka@sejm.pl
-Andrzej Kryj,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,male,63,Andrzej.Kryj@sejm.pl
-Mariusz Krystian,12  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,male,47,Mariusz.Krystian@sejm.pl
-Marek Krząkała,30  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,56,Marek.Krzakala@sejm.pl
-Adam Krzemiński,16  Płock,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,48,Adam.Krzeminski@sejm.pl
-Henryka Krzywonos-Strycharska,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,70,Henryka.Krzywonos-Strycharska@sejm.pl
-Krzysztof Kubów,1  Legnica,Klub Parlamentarny Prawo i Sprawiedliwość,male,39,Krzysztof.Kubow@sejm.pl
-Anita Kucharska-Dziedzic,8  Zielona Góra,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,51,Anita.Kucharska-Dziedzic@sejm.pl
-Marek Kuchciński,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,male,68,Marek.Kuchcinski@sejm.pl
-Paweł Kukiz,21  Opole,Koło Poselskie Kukiz'15,male,60,Pawel.Kukiz@sejm.pl
-Marcin Kulasek,35  Olsztyn,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,47,Marcin.Kulasek@sejm.pl
-Maria Kurowska,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,female,69,Maria.Kurowska@sejm.pl
-Władysław Kurowski,12  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,male,63,Wladyslaw.Kurowski@sejm.pl
-Zbigniew Krzysztof Kuźmiuk,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,male,67,Zbigniew.Kuzmiuk@sejm.pl
-Anna Kwiecień,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,female,59,Anna.Kwiecien@sejm.pl
-Piotr Lachowicz,14  Nowy Sącz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,56,Piotr.Lachowicz@sejm.pl
-Stanisław Lamczyk,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,66,Stanislaw.Lamczyk@sejm.pl
-Maciej Lasek,20  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,56,Maciej.Lasek@sejm.pl
-Gabriela Lenartowicz,30  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,63,Gabriela.Lenartowicz@sejm.pl
-Ewa Leniart,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,female,47,Ewa.Leniart@sejm.pl
-Aleksandra Leo,2  Wałbrzych,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,42,Aleksandra.Leo@sejm.pl
-Izabela Leszczyna,28  Częstochowa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,61,Izabela.Leszczyna@sejm.pl
-Joanna Lichocka,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,female,54,Joanna.Lichocka@sejm.pl
-Krzysztof Lipiec,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,male,64,Krzysztof.Lipiec@sejm.pl
-Łukasz Litewka,32  Katowice,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,34,Lukasz.Litewka@sejm.pl
-Grzegorz Lorek,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,male,53,Grzegorz.Lorek@sejm.pl
-Radosław Lubczyk,40  Koszalin,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,45,Radoslaw.Lubczyk@sejm.pl
-Katarzyna Anna Lubnauer,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,54,Katarzyna.Lubnauer@sejm.pl
-Adam Luboński,38  Piła,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,54,Adam.Lubonski@sejm.pl
-Artur Jarosław Łącki,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,62,Artur.Lacki@sejm.pl
-Alicja Łepkowska-Gołaś,24  Białystok,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,41,Alicja.Lepkowska-Golas@sejm.pl
-Dorota Łoboda,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,48,Dorota.Loboda@sejm.pl
-Krystian Łuczak,5  Toruń,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,48,Krystian.Luczak@sejm.pl
-Sebastian Łukaszewicz,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,male,32,Sebastian.Lukaszewicz@sejm.pl
-Marzena Anna Machałek,1  Legnica,Klub Parlamentarny Prawo i Sprawiedliwość,female,63,Marzena.Machalek@sejm.pl
-Antoni Macierewicz,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,male,75,Antoni.Macierewicz@sejm.pl
-Marlena Magdalena Maląg,36  Kalisz,Klub Parlamentarny Prawo i Sprawiedliwość,female,59,Marlena.Malag@sejm.pl
-Ewa Malik,32  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,female,62,Ewa.Malik@sejm.pl
-Mirosław Maliszewski,17  Radom,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,55,Miroslaw.Maliszewski@sejm.pl
-Maciej Małecki,16  Płock,Klub Parlamentarny Prawo i Sprawiedliwość,male,49,Maciej.Malecki@sejm.pl
-Arkadiusz Marchewka,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,37,Arkadiusz.Marchewka@sejm.pl
-Jagna Marczułajtis-Walczak,13  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,45,Jagna.Marczulajtis-Walczak@sejm.pl
-Dorota Marek,13  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,50,Dorota.Marek@sejm.pl
-Dariusz Matecki,41  Szczecin,Klub Parlamentarny Prawo i Sprawiedliwość,male,34,Dariusz.Matecki@sejm.pl
-Jerzy Materna,8  Zielona Góra,Klub Parlamentarny Prawo i Sprawiedliwość,male,67,Jerzy.Materna@sejm.pl
-Grzegorz Matusiak,30  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,male,62,Grzegorz.Matusiak@sejm.pl
-Katarzyna Matusik-Lipiec,13  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,48,Katarzyna.Matusik-Lipiec@sejm.pl
-Marek Matuszewski,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,male,64,Marek.Matuszewski@sejm.pl
-Paulina Matysiak,11  Sieradz,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,39,Paulina.Matysiak@sejm.pl
-Łukasz Mejza,8  Zielona Góra,Klub Parlamentarny Prawo i Sprawiedliwość,male,32,Lukasz.Mejza@sejm.pl
-Sławomir Mentzen,19  Warszawa,Klub Poselski Konfederacja,male,37,Slawomir.Mentzen@sejm.pl
-Anna Milczanowska,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,female,65,Anna.Milczanowska@sejm.pl
-Daniel Milewski,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,male,34,Daniel.Milewski@sejm.pl
-Rajmund Miller,21  Opole,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,69,Rajmund.Miller@sejm.pl
-Aleksander Miszalski,13  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,43,Aleksander.Miszalski@sejm.pl
-Mateusz Morawiecki,31  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,male,55,Mateusz.Morawiecki@sejm.pl
-Jan Mosiński,36  Kalisz,Klub Parlamentarny Prawo i Sprawiedliwość,male,67,Jan.Mosinski@sejm.pl
-Michał Moskal,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,male,29,Michal.Moskal@sejm.pl
-Czesław Mroczek,18  Siedlce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,59,Czeslaw.Mroczek@sejm.pl
-Aleksander Mikołaj Mrówczyński,26  Słupsk,Klub Parlamentarny Prawo i Sprawiedliwość,male,70,Aleksander.Mrowczynski@sejm.pl
-Izabela Katarzyna Mrzygłocka,2  Wałbrzych,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,64,Izabela.Mrzyglocka@sejm.pl
-Joanna Mucha,6  Lublin,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,47,Joanna.Mucha@sejm.pl
-Arkadiusz Mularczyk,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,male,52,Arkadiusz.Mularczyk@sejm.pl
-Krzysztof Mulawa,18  Siedlce,Klub Poselski Konfederacja,male,38,Krzysztof.Mulawa@sejm.pl
-Piotr Müller,26  Słupsk,Klub Parlamentarny Prawo i Sprawiedliwość,male,34,Piotr.Muller@sejm.pl
-Arkadiusz Myrcha,5  Toruń,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,39,Arkadiusz.Myrcha@sejm.pl
-Grzegorz Bernard Napieralski,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,49,Grzegorz.Napieralski@sejm.pl
-Dorota Niedziela,12  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,59,Dorota.Niedziela@sejm.pl
-Jacek Niedźwiedzki,24  Białystok,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,48,Jacek.Niedzwiedzki@sejm.pl
-Małgorzata Niemczyk,9  Łódź,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,54,Malgorzata.Niemczyk@sejm.pl
-Jolanta Niezgodzka,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,32,Jolanta.Niezgodzka@sejm.pl
-Sławomir Nitras,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,50,Slawomir.Nitras@sejm.pl
-Barbara Nowacka,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,48,Barbara.Nowacka@sejm.pl
-Maja Ewa Nowak,8  Zielona Góra,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,36,Maja.Nowak@sejm.pl
-Tomasz Piotr Nowak,37  Konin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,67,Tomasz.Nowak@sejm.pl
-Wanda Nowicka,29  Katowice,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,67,Wanda.Nowicka@sejm.pl
-Urszula Nowogórska,14  Nowy Sącz,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,female,45,Urszula.Nowogorska@sejm.pl
-Mirosława Nykiel,27  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,70,Miroslawa.Nykiel@sejm.pl
-Marcin Ociepa,21  Opole,Klub Parlamentarny Prawo i Sprawiedliwość,male,39,Marcin.Ociepa@sejm.pl
-Marzena Okła-Drewnowicz,33  Kielce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,51,Marzena.Okla-Drewnowicz@sejm.pl
-Barbara Okuła,24  Białystok,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,50,Barbara.Okula@sejm.pl
-Barbara Oliwiecka,36  Kalisz,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,46,Barbara.Oliwiecka@sejm.pl
-Dorota Olko,19  Warszawa,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,35,Dorota.Olko@sejm.pl
-Paweł Olszewski,4  Bydgoszcz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,44,Pawel.Olszewski@sejm.pl
-Mirosław Adam Orliński,16  Płock,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,37,Miroslaw.Orlinski@sejm.pl
-Łukasz Osmalak,30  Bielsko-Biała,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,46,Lukasz.Osmalak@sejm.pl
-Katarzyna Osos,8  Zielona Góra,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,43,Katarzyna.Osos@sejm.pl
-Jacek Osuch,13  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,male,65,Jacek.Osuch@sejm.pl
-Jacek Ozdoba,16  Płock,Klub Parlamentarny Prawo i Sprawiedliwość,male,32,Jacek.Ozdoba@sejm.pl
-Teresa Pamuła,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,female,67,Teresa.Pamula@sejm.pl
-Paweł Papke,35  Olsztyn,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,46,Pawel.Papke@sejm.pl
-Urszula Pasławska,35  Olsztyn,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,female,46,Urszula.Paslawska@sejm.pl
-Krzysztof Paszyk,38  Piła,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,44,Krzysztof.Paszyk@sejm.pl
-Karolina Pawliczak,36  Kalisz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,47,Karolina.Pawliczak@sejm.pl
-Bartłomiej Pejo,6  Lublin,Klub Poselski Konfederacja,male,38,Bartlomiej.Pejo@sejm.pl
-Ryszard Petru,19  Warszawa,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,51,Ryszard.Petru@sejm.pl
-Małgorzata Pępek,27  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,62,Malgorzata.Pepek@sejm.pl
-Bolesław Piecha,30  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,male,69,Boleslaw.Piecha@sejm.pl
-Grzegorz Piechowiak,38  Piła,Klub Parlamentarny Prawo i Sprawiedliwość,male,60,Grzegorz.Piechowiak@sejm.pl
-Anna Pieczarka,15  Tarnów,Klub Parlamentarny Prawo i Sprawiedliwość,female,46,Anna.Pieczarka@sejm.pl
-Katarzyna Maria Piekarska,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,56,Katarzyna.Piekarska@sejm.pl
-Norbert Pietrykowski,4  Bydgoszcz,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,50,Norbert.Pietrykowski@sejm.pl
-Lucjan Marek Pietrzczyk,33  Kielce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,63,Lucjan.Pietrzczyk@sejm.pl
-Dariusz Piontkowski,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,male,59,Dariusz.Piontkowski@sejm.pl
-Kazimierz Plocke,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,65,Kazimierz.Plocke@sejm.pl
-Grzegorz Adam Płaczek,31  Katowice,Klub Poselski Konfederacja,male,45,Grzegorz.Placzek@sejm.pl
-Kacper Płażyński,25  Gdańsk,Klub Parlamentarny Prawo i Sprawiedliwość,male,34,Kacper.Plazynski@sejm.pl
-Szymon Pogoda,1  Legnica,Klub Parlamentarny Prawo i Sprawiedliwość,male,38,Szymon.Pogoda@sejm.pl
-Jerzy Polaczek,31  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,male,62,Jerzy.Polaczek@sejm.pl
-Elżbieta Anna Polak,8  Zielona Góra,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,64,Elzbieta.Polak@sejm.pl
-Piotr Polak,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,male,62,Piotr.Polak@sejm.pl
-Agnieszka Pomaska,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,43,Agnieszka.Pomaska@sejm.pl
-Marcin Porzucek,38  Piła,Klub Parlamentarny Prawo i Sprawiedliwość,male,39,Marcin.Porzucek@sejm.pl
-Jacek Protas,34  Elbląg,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,59,Jacek.Protas@sejm.pl
-Marcin Przydacz,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,male,38,Marcin.Przydacz@sejm.pl
-Grzegorz Puda,27  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,male,41,Grzegorz.Puda@sejm.pl
-Michał Pyrzyk,37  Konin,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,48,Michal.Pyrzyk@sejm.pl
-Renata Rak,40  Koszalin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,50,Renata.Rak@sejm.pl
-Ireneusz Raś,13  Kraków,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,51,Ireneusz.Ras@sejm.pl
-Zbigniew Rau,9  Łódź,Klub Parlamentarny Prawo i Sprawiedliwość,male,68,Zbigniew.Rau@sejm.pl
-Marcin Romanowski,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,male,47,Marcin.Romanowski@sejm.pl
-Bartosz Romowicz,22  Krosno,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,35,Bartosz.Romowicz@sejm.pl
-Monika Rosa,31  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,37,Monika.Rosa@sejm.pl
-Wiesław Różyński,7  Chełm,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,55,Wieslaw.Rozynski@sejm.pl
-Urszula Rusecka,15  Tarnów,Klub Parlamentarny Prawo i Sprawiedliwość,female,57,Urszula.Rusecka@sejm.pl
-Grzegorz Rusiecki,36  Kalisz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,40,Grzegorz.Rusiecki@sejm.pl
-Jakub Rutnicki,38  Piła,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,45,Jakub.Rutnicki@sejm.pl
-Paweł Rychlik,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,male,37,Pawel.Rychlik@sejm.pl
-Marek Rząsa,22  Krosno,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,66,Marek.Rzasa@sejm.pl
-Jarosław Rzepa,41  Szczecin,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,51,Jaroslaw.Rzepa@sejm.pl
-Jarosław Sachajko,7  Chełm,Koło Poselskie Kukiz'15,male,52,Jaroslaw.Sachajko@sejm.pl
-Paweł Sałek,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,male,48,Pawel.Salek@sejm.pl
-Wojciech Saługa,32  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,54,Wojciech.Saluga@sejm.pl
-Tadeusz Samborski,1  Legnica,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,78,Tadeusz.Samborski@sejm.pl
-Jacek Sasin,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,male,54,Jacek.Sasin@sejm.pl
-Marek Sawicki,18  Siedlce,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,65,Marek.Sawicki@sejm.pl
-Ewa Schädler,39  Poznań,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,55,Ewa.Schadler@sejm.pl
-Joanna Scheuring-Wielgus,5  Toruń,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,51,Joanna.Scheuring-Wielgus@sejm.pl
-Anna Schmidt,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,female,45,Anna.Schmidt@sejm.pl
-Łukasz Schreiber,4  Bydgoszcz,Klub Parlamentarny Prawo i Sprawiedliwość,male,36,Lukasz.Schreiber@sejm.pl
-Jarosław Sellin,25  Gdańsk,Klub Parlamentarny Prawo i Sprawiedliwość,male,60,Jaroslaw.Sellin@sejm.pl
-Olga Ewa Semeniuk-Patkowska,35  Olsztyn,Klub Parlamentarny Prawo i Sprawiedliwość,female,35,Olga.Semeniuk-Patkowska@sejm.pl
-Edward Siarka,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,male,60,Edward.Siarka@sejm.pl
-Krystyna Sibińska,8  Zielona Góra,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,61,Krystyna.Sibinska@sejm.pl
-Czesław Siekierski,33  Kielce,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,71,Czeslaw.Siekierski@sejm.pl
-Rafał Siemaszko,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,37,Rafal.Siemaszko@sejm.pl
-Tomasz Siemoniak,21  Opole,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,56,Tomasz.Siemoniak@sejm.pl
-Bartłomiej Sienkiewicz,13  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,62,Bartlomiej.Sienkiewicz@sejm.pl
-Arkadiusz Sikora,1  Legnica,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,50,Arkadiusz.Sikora@sejm.pl
-Włodzimierz Skalik,21  Opole,Klub Poselski Konfederacja,male,64,Wlodzimierz.Skalik@sejm.pl
-Marcin Skonieczka,5  Toruń,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,45,Marcin.Skonieczka@sejm.pl
-Krystyna Skowrońska,23  Rzeszów,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,69,Krystyna.Skowronska@sejm.pl
-Sławomir Skwarek,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,male,60,Slawomir.Skwarek@sejm.pl
-Waldemar Sługocki,8  Zielona Góra,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,52,Waldemar.Slugocki@sejm.pl
-Weronika Smarduch,14  Nowy Sącz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,33,Weronika.Smarduch@sejm.pl
-Kazimierz Smoliński,25  Gdańsk,Klub Parlamentarny Prawo i Sprawiedliwość,male,68,Kazimierz.Smolinski@sejm.pl
-Anna Sobolak,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,44,Anna.Sobolak@sejm.pl
-Krzysztof Sobolewski,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,male,45,Krzysztof.Sobolewski@sejm.pl
-Artur Soboń,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,male,46,
-Agnieszka Anna Soin,3  Wrocław,Klub Parlamentarny Prawo i Sprawiedliwość,female,46,Agnieszka.Soin@sejm.pl
-Zbigniew Sosnowski,5  Toruń,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,60,Zbigniew.Sosnowski@sejm.pl
-Marek Sowa,12  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,56,Marek.Sowa@sejm.pl
-Katarzyna Sójka,36  Kalisz,Klub Parlamentarny Prawo i Sprawiedliwość,female,37,Katarzyna.Sojka@sejm.pl
-Magdalena Sroka,25  Gdańsk,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,female,44,Magdalena.Sroka@sejm.pl
-Mirosława Stachowiak-Różecka,3  Wrocław,Klub Parlamentarny Prawo i Sprawiedliwość,female,50,Miroslawa.Stachowiak-Rozecka@sejm.pl
-Dariusz Stefaniuk,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,male,42,Dariusz.Stefaniuk@sejm.pl
-Franciszek Sterczewski,39  Poznań,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,35,Franciszek.Sterczewski@sejm.pl
-Piotr Paweł Strach,29  Katowice,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,41,Piotr.Strach@sejm.pl
-Mirosław Suchoń,27  Bielsko-Biała,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,47,Miroslaw.Suchon@sejm.pl
-Marek Suski,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,male,65,Marek.Suski@sejm.pl
-Paweł Suski,40  Koszalin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,59,Pawel.Suski@sejm.pl
-Artur Szałabawka,41  Szczecin,Klub Parlamentarny Prawo i Sprawiedliwość,male,56,Artur.Szalabawka@sejm.pl
-Wojciech Szarama,29  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,male,68,Wojciech.Szarama@sejm.pl
-Wiesław Szczepański,36  Kalisz,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,63,Wieslaw.Szczepanski@sejm.pl
-Michał Szczerba,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,46,Michal.Szczerba@sejm.pl
-Krzysztof Szczucki,5  Toruń,Klub Parlamentarny Prawo i Sprawiedliwość,male,37,Krzysztof.Szczucki@sejm.pl
-Józefa Szczurek-Żelazko,15  Tarnów,Klub Parlamentarny Prawo i Sprawiedliwość,female,62,Jozefa.Szczurek-Zelazko@sejm.pl
-Paweł Szefernaker,40  Koszalin,Klub Parlamentarny Prawo i Sprawiedliwość,male,36,Pawel.Szefernaker@sejm.pl
-Andrzej Szejna,33  Kielce,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,50,Andrzej.Szejna@sejm.pl
-Andrzej Szewiński,28  Częstochowa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,53,Andrzej.Szewinski@sejm.pl
-Adam Szłapka,39  Poznań,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,39,Adam.Szlapka@sejm.pl
-Henryk Szopiński,38  Piła,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,61,Henryk.Szopinski@sejm.pl
-Paweł Szrot,4  Bydgoszcz,Klub Parlamentarny Prawo i Sprawiedliwość,male,48,Pawel.Szrot@sejm.pl
-Krystyna Szumilas,29  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,67,Krystyna.Szumilas@sejm.pl
-Stanisław Szwed,27  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,male,68,Stanislaw.Szwed@sejm.pl
-Ewa Szymanowska,9  Łódź,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,45,Ewa.Szymanowska@sejm.pl
-Tomasz Szymański,5  Toruń,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,45,Tomasz.Szymanski@sejm.pl
-Szymon Szynkowski vel Sęk,39  Poznań,Klub Parlamentarny Prawo i Sprawiedliwość,male,41,Szymon.SzynkowskiVelSek@sejm.pl
-Łukasz Ściebiorowski,31  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,43,Lukasz.Sciebiorowski@sejm.pl
-Agnieszka Ścigaj,13  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,female,48,Agnieszka.Scigaj@sejm.pl
-Andrzej Śliwka,34  Elbląg,Klub Parlamentarny Prawo i Sprawiedliwość,male,35,Andrzej.Sliwka@sejm.pl
-Paweł Śliz,12  Kraków,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,43,Pawel.Sliz@sejm.pl
-Krzysztof Śmiszek,3  Wrocław,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,44,Krzysztof.Smiszek@sejm.pl
-Jacek Świat,3  Wrocław,Klub Parlamentarny Prawo i Sprawiedliwość,male,68,Jacek.Swiat@sejm.pl
-Apoloniusz Tajner,27  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,69,Apoloniusz.Tajner@sejm.pl
-Krzysztof Tchórzewski,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,male,73,Krzysztof.Tchorzewski@sejm.pl
-Robert Telus,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,male,54,Robert.Telus@sejm.pl
-Ryszard Terlecki,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,male,74,Ryszard.Terlecki@sejm.pl
-Tadeusz Tomaszewski,37  Konin,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,64,Tadeusz.Tomaszewski@sejm.pl
-Jacek Tomczak,39  Poznań,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,50,Jacek.Tomczak@sejm.pl
-Wioleta Tomczak,26  Słupsk,Klub Parlamentarny Polska 2050 - Trzecia Droga,female,35,Wioleta.Tomczak@sejm.pl
-Cezary Tomczyk,11  Sieradz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,39,Cezary.Tomczyk@sejm.pl
-Stanisław Tomczyszyn,8  Zielona Góra,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,64,Stanislaw.Tomczyszyn@sejm.pl
-Małgorzata Tracz,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,38,Malgorzata.Tracz@sejm.pl
-Tomasz Trela,9  Łódź,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,44,Tomasz.Trela@sejm.pl
-Krzysztof Truskolaski,24  Białystok,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,33,Krzysztof.Truskolaski@sejm.pl
-Krzysztof Tuduj,3  Wrocław,Klub Poselski Konfederacja,male,42,Krzysztof.Tuduj@sejm.pl
-Sylwester Tułajew,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,male,42,Sylwester.Tulajew@sejm.pl
-Witold Tumanowicz,7  Chełm,Klub Poselski Konfederacja,male,37,Witold.Tumanowicz@sejm.pl
-Donald Tusk,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,66,Donald.Tusk@sejm.pl
-Stanisław Tyszka,26  Słupsk,Klub Poselski Konfederacja,male,44,Stanislaw.Tyszka@sejm.pl
-Katarzyna Ueberhan,39  Poznań,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,48,Katarzyna.Ueberhan@sejm.pl
-Jarosław Urbaniak,36  Kalisz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,57,Jaroslaw.Urbaniak@sejm.pl
-Piotr Uruski,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,male,47,Piotr.Uruski@sejm.pl
-Piotr Uściński,20  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,male,46,Piotr.Uscinski@sejm.pl
-Jarosław Wałęsa,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,47,Jaroslaw.Walesa@sejm.pl
-Marcin Warchoł,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,male,43,Marcin.Warchol@sejm.pl
-Robert Wardzała,15  Tarnów,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,48,Robert.Wardzala@sejm.pl
-Robert Warwas,32  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,male,47,Robert.Warwas@sejm.pl
-Jan Warzecha,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,male,64,Jan.Warzecha@sejm.pl
-Małgorzata Wassermann,13  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,female,45,Malgorzata.Wassermann@sejm.pl
-Michał Wawer,33  Kielce,Klub Poselski Konfederacja,male,34,Michal.Wawer@sejm.pl
-Maciej Wąsik,16  Płock,Klub Parlamentarny Prawo i Sprawiedliwość,male,54,Maciej.Wasik@sejm.pl
-Marta Wcisło,6  Lublin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,54,Marta.Wcislo@sejm.pl
-Rafał Weber,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,male,42,Rafal.Weber@sejm.pl
-Marek Wesoły,31  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,male,51,Marek.Wesoly@sejm.pl
-Joanna Wicha,20  Warszawa,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,57,Joanna.Wicha@sejm.pl
-Patryk Wicher,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,male,37,Patryk.Wicher@sejm.pl
-Dariusz Wieczorek,41  Szczecin,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,58,Dariusz.Wieczorek@sejm.pl
-Jarosław Wiesław Wieczorek,29  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,male,42,Jaroslaw.Wieczorek@sejm.pl
-Monika Wielichowska,2  Wałbrzych,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,50,Monika.Wielichowska@sejm.pl
-Ryszard Wilk,14  Nowy Sącz,Klub Poselski Konfederacja,male,36,Ryszard.Wilk@sejm.pl
-Teresa Wilk,34  Elbląg,Klub Parlamentarny Prawo i Sprawiedliwość,female,71,Teresa.Wilk@sejm.pl
-Przemysław Wipler,5  Toruń,Klub Poselski Konfederacja,male,45,Przemyslaw.Wipler@sejm.pl
-Aleksandra Karolina Wiśniewska,9  Łódź,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,29,Aleksandra.Wisniewska@sejm.pl
-Adrian Witczak,10  Piotrków Trybunalski,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,32,Adrian.Witczak@sejm.pl
-Mariusz Witczak,36  Kalisz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,52,Mariusz.Witczak@sejm.pl
-Elżbieta Witek,1  Legnica,Klub Parlamentarny Prawo i Sprawiedliwość,female,66,Elzbieta.Witek@sejm.pl
-Przemysław Witek,28  Częstochowa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,45,Przemyslaw.Witek@sejm.pl
-Kamil Wnuk,32  Katowice,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,39,Kamil.Wnuk@sejm.pl
-Anna Wojciechowska,35  Olsztyn,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,63,Anna.Wojciechowska@sejm.pl
-Agnieszka Wojciechowska van Heukelom,9  Łódź,Klub Parlamentarny Prawo i Sprawiedliwość,female,59,Agnieszka.WojciechowskavanHeukelom@sejm.pl
-Agata Wojtyszek,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,female,56,Agata.Wojtyszek@sejm.pl
-Bogusław Wołoszański,10  Piotrków Trybunalski,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,73,Boguslaw.Woloszanski@sejm.pl
-Michał Woś,30  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,male,32,Michal.Wos@sejm.pl
-Grzegorz Woźniak,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,male,55,Grzegorz.Wozniak@sejm.pl
-Tadeusz Woźniak,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,male,63,Tadeusz.Wozniak@sejm.pl
-Michał Wójcik,31  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,male,52,Michal.Wojcik@sejm.pl
-Maciej Wróbel,35  Olsztyn,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,40,Maciej.Wrobel@sejm.pl
-Bartłomiej Wróblewski,39  Poznań,Klub Parlamentarny Prawo i Sprawiedliwość,male,48,Bartlomiej.Wroblewski@sejm.pl
-Paweł Zalewski,20  Warszawa,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,59,Pawel.Zalewski@sejm.pl
-Adrian Zandberg,19  Warszawa,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",male,44,Adrian.Zandberg@sejm.pl
-Andrzej Tomasz Zapałowski,22  Krosno,Klub Poselski Konfederacja,male,57,Andrzej.Zapalowski@sejm.pl
-Bartosz Zawieja,39  Poznań,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,45,Bartosz.Zawieja@sejm.pl
-Marcelina Zawisza,21  Opole,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,34,Marcelina.Zawisza@sejm.pl
-Sławomir Zawiślak,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,male,60,Slawomir.Zawislak@sejm.pl
-Bogdan Andrzej Zdrojewski,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,66,Bogdan.Zdrojewski@sejm.pl
-Witold Zembaczyński,21  Opole,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",male,43,Witold.Zembaczynski@sejm.pl
-Piotr Zgorzelski,16  Płock,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,60,Piotr.Zgorzelski@sejm.pl
-Zbigniew Ziejewski,34  Elbląg,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,male,65,Zbigniew.Ziejewski@sejm.pl
-Urszula Sara Zielińska,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",female,46,Urszula.Zielinska@sejm.pl
-Jarosław Zieliński,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,male,63,Jaroslaw.Zielinski@sejm.pl
-Tomasz Zieliński,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,male,56,Tomasz.Zielinski@sejm.pl
-Jolanta Zięba-Gzik,11  Sieradz,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,female,48,Jolanta.Zieba-Gzik@sejm.pl
-Tomasz Zimoch,3  Wrocław,Klub Parlamentarny Polska 2050 - Trzecia Droga,male,66,Tomasz.Zimoch@sejm.pl
-Zbigniew Ziobro,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,male,53,Zbigniew.Ziobro@sejm.pl
-Wojciech Michał Zubowski,1  Legnica,Klub Parlamentarny Prawo i Sprawiedliwość,male,44,Wojciech.Zubowski@sejm.pl
-Ireneusz Zyska,2  Wałbrzych,Klub Parlamentarny Prawo i Sprawiedliwość,male,54,Ireneusz.Zyska@sejm.pl
-Bożena Żelazowska,20  Warszawa,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,female,53,Bozena.Zelazowska@sejm.pl
-Anna Maria Żukowska,19  Warszawa,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",female,40,Anna.Zukowska@sejm.pl
-Anna Baluch,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,female,50,Anna.Baluch@sejm.pl
-
+name,district,party,age,email
+Andrzej Adamczyk,13  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,64,Andrzej.Adamczyk@sejm.pl
+Piotr Adamowicz,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",62,Piotr.Adamowicz@sejm.pl
+Adam Andruszkiewicz,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,33,Adam.Andruszkiewicz@sejm.pl
+Waldemar Andzel,32  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,52,Waldemar.Andzel@sejm.pl
+Dorota Arciszewska-Mielewczyk,26  Słupsk,Klub Parlamentarny Prawo i Sprawiedliwość,55,Dorota.Arciszewska-Mielewczyk@sejm.pl
+Jan Krzysztof Ardanowski,5  Toruń,Klub Parlamentarny Prawo i Sprawiedliwość,62,Jan.Ardanowski@sejm.pl
+Iwona Ewa Arent,35  Olsztyn,Klub Parlamentarny Prawo i Sprawiedliwość,55,Iwona.Arent@sejm.pl
+Bartosz Arłukowicz,40  Koszalin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",52,Bartosz.Arlukowicz@sejm.pl
+Marek Ast,8  Zielona Góra,Klub Parlamentarny Prawo i Sprawiedliwość,65,Marek.Ast@sejm.pl
+Urszula Augustyn,15  Tarnów,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",59,Urszula.Augustyn@sejm.pl
+Piotr Babinetz,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,54,Piotr.Babinetz@sejm.pl
+Ryszard Bartosik,37  Konin,Klub Parlamentarny Prawo i Sprawiedliwość,55,Ryszard.Bartosik@sejm.pl
+Władysław Bartoszewski,19  Warszawa,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,68,Wladyslaw.Bartoszewski@sejm.pl
+Barbara Bartuś,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,56,Barbara.Bartus@sejm.pl
+Paweł Bejda,11  Sieradz,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,61,Pawel.Bejda@sejm.pl
+Konrad Berkowicz,13  Kraków,Klub Poselski Konfederacja,39,Konrad.Berkowicz@sejm.pl
+Sylwia Bielawska,2  Wałbrzych,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",48,Sylwia.Bielawska@sejm.pl
+Marek Biernacki,26  Słupsk,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,64,Marek.Biernacki@sejm.pl
+Paweł Bliźniuk,9  Łódź,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",37,Pawel.Blizniuk@sejm.pl
+Mariusz Błaszczak,20  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,54,Mariusz.Blaszczak@sejm.pl
+Mateusz Bochenek,32  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",30,Mateusz.Bochenek@sejm.pl
+Rafał Bochenek,12  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,37,Rafal.Bochenek@sejm.pl
+Izabela Bodnar,3  Wrocław,Klub Parlamentarny Polska 2050 - Trzecia Droga,48,Izabela.Bodnar@sejm.pl
+Jacek Bogucki,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,64,Jacek.Bogucki@sejm.pl
+Zbigniew Bogucki,41  Szczecin,Klub Parlamentarny Prawo i Sprawiedliwość,43,Zbigniew.Bogucki@sejm.pl
+Krzysztof Bojarski,6  Lublin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",55,Krzysztof.Bojarski@sejm.pl
+Joanna Borowiak,5  Toruń,Klub Parlamentarny Prawo i Sprawiedliwość,56,Joanna.Borowiak@sejm.pl
+Kamil Bortniczuk,16  Płock,Klub Parlamentarny Prawo i Sprawiedliwość,40,Kamil.Bortniczuk@sejm.pl
+Piotr Borys,1  Legnica,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",47,Piotr.Borys@sejm.pl
+Bożena Borys-Szopa,29  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,69,Bozena.Borys-Szopa@sejm.pl
+Marcin Bosacki,39  Poznań,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",53,Marcin.Bosacki@sejm.pl
+Karina Anna Bosak,20  Warszawa,Klub Poselski Konfederacja,35,Karina.Bosak@sejm.pl
+Krzysztof Bosak,24  Białystok,Klub Poselski Konfederacja,41,Krzysztof.Bosak@sejm.pl
+Grzegorz Braun,23  Rzeszów,Klub Poselski Konfederacja,56,Grzegorz.Braun@sejm.pl
+Krzysztof Brejza,4  Bydgoszcz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",40,Krzysztof.Brejza@sejm.pl
+Agnieszka Buczyńska,25  Gdańsk,Klub Parlamentarny Polska 2050 - Trzecia Droga,37,Agnieszka.Buczynska@sejm.pl
+Waldemar Buda,9  Łódź,Klub Parlamentarny Prawo i Sprawiedliwość,41,Waldemar.Buda@sejm.pl
+Borys Budka,31  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",45,Borys.Budka@sejm.pl
+Elżbieta Burkiewicz,23  Rzeszów,Klub Parlamentarny Polska 2050 - Trzecia Droga,59,Elzbieta.Burkiewicz@sejm.pl
+Lidia Burzyńska,28  Częstochowa,Klub Parlamentarny Prawo i Sprawiedliwość,59,Lidia.Burzynska@sejm.pl
+Marek Jan Chmielewski,2  Wałbrzych,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",61,Marek.Chmielewski@sejm.pl
+Zbigniew Chmielowiec,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,69,Zbigniew.Chmielowiec@sejm.pl
+Artur Chojecki,35  Olsztyn,Klub Parlamentarny Prawo i Sprawiedliwość,49,Artur.Chojecki@sejm.pl
+Kazimierz Bogusław Choma,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,66,Kazimierz.Choma@sejm.pl
+Dominika Chorosińska,20  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,45,Dominika.Chorosinska@sejm.pl
+Tadeusz Chrzan,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,60,Tadeusz.Chrzan@sejm.pl
+Alicja Chybicka,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",72,Alicja.Chybicka@sejm.pl
+Anna Ewa Cicholska,16  Płock,Klub Parlamentarny Prawo i Sprawiedliwość,61,Anna.Cicholska@sejm.pl
+Janusz Cichoń,35  Olsztyn,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",66,Janusz.Cichon@sejm.pl
+Krzysztof Ciecióra,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,34,Krzysztof.Cieciora@sejm.pl
+Janusz Cieszyński,35  Olsztyn,Klub Parlamentarny Prawo i Sprawiedliwość,35,Janusz.Cieszynski@sejm.pl
+Michał Cieślak,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,49,Michal.Cieslak@sejm.pl
+Żaneta Cwalina-Śliwowska,18  Siedlce,Klub Parlamentarny Polska 2050 - Trzecia Droga,45,Zaneta.Cwalina-Sliwowska@sejm.pl
+Krzysztof Czarnecki,38  Piła,Klub Parlamentarny Prawo i Sprawiedliwość,66,Krzysztof.Czarnecki@sejm.pl
+Witold Wojciech Czarnecki,37  Konin,Klub Parlamentarny Prawo i Sprawiedliwość,70,Witold.Czarnecki@sejm.pl
+Przemysław Czarnek,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,46,Przemyslaw.Czarnek@sejm.pl
+Arkadiusz Czartoryski,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,57,Arkadiusz.Czartoryski@sejm.pl
+Włodzimierz Czarzasty,32  Katowice,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",63,Wlodzimierz.Czarzasty@sejm.pl
+Jacek Czerniak,6  Lublin,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",59,Jacek.Czerniak@sejm.pl
+Zofia Czernow,1  Legnica,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",73,Zofia.Czernow@sejm.pl
+Anita Czerwińska,20  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,53,Anita.Czerwinska@sejm.pl
+Katarzyna Czochara,21  Opole,Klub Parlamentarny Prawo i Sprawiedliwość,54,Katarzyna.Czochara@sejm.pl
+Sławomir Ćwik,7  Chełm,Klub Parlamentarny Polska 2050 - Trzecia Droga,51,Slawomir.Cwik@sejm.pl
+Władysław Dajczak,8  Zielona Góra,Klub Parlamentarny Prawo i Sprawiedliwość,64,Wladyslaw.Dajczak@sejm.pl
+Anna Dąbrowska-Banaszek,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,62,Anna.Dabrowska-Banaszek@sejm.pl
+Zbigniew Dolata,37  Konin,Klub Parlamentarny Prawo i Sprawiedliwość,58,Zbigniew.Dolata@sejm.pl
+Barbara Dolniak,32  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",63,Barbara.Dolniak@sejm.pl
+Andrzej Domański,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",42,Andrzej.Domanski@sejm.pl
+Bartłomiej Dorywalski,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,44,Bartlomiej.Dorywalski@sejm.pl
+Robert Dowhan,8  Zielona Góra,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",56,Robert.Dowhan@sejm.pl
+Przemysław Drabek,27  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,44,Przemyslaw.Drabek@sejm.pl
+Elżbieta Duda,13  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,61,Elzbieta.Duda@sejm.pl
+Michał Paweł Dworczyk,2  Wałbrzych,Klub Parlamentarny Prawo i Sprawiedliwość,48,Michal.Dworczyk@sejm.pl
+Adam Dziedzic,23  Rzeszów,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,54,Adam.Dziedzic@sejm.pl
+Jan Michał Dziedziczak,36  Kalisz,Klub Parlamentarny Prawo i Sprawiedliwość,42,Jan.Dziedziczak@sejm.pl
+Agnieszka Dziemianowicz-Bąk,26  Słupsk,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",39,Agnieszka.Dziemianowicz-Bak@sejm.pl
+Magdalena Filiks,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",45,Magdalena.Filiks@sejm.pl
+Magdalena Filipek-Sobczak,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,40,Magdalena.Filipek-Sobczak@sejm.pl
+Radosław Fogiel,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,41,Radoslaw.Fogiel@sejm.pl
+Bronisław Foltyn,27  Bielsko-Biała,Klub Poselski Konfederacja,49,Bronislaw.Foltyn@sejm.pl
+Roman Fritz,30  Bielsko-Biała,Klub Poselski Konfederacja,57,Roman.Fritz@sejm.pl
+Joanna Frydrych,22  Krosno,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",45,Joanna.Frydrych@sejm.pl
+Konrad Frysztak,17  Radom,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",37,Konrad.Frysztak@sejm.pl
+Patryk Gabriel,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",46,Patryk.Gabriel@sejm.pl
+Krzysztof Gadowski,30  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",61,Krzysztof.Gadowski@sejm.pl
+Aleksandra Gajewska,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",34,Aleksandra.Gajewska@sejm.pl
+Kinga Gajewska,20  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",33,Kinga.Gajewska@sejm.pl
+Elżbieta Gapińska,16  Płock,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",63,Elzbieta.Gapinska@sejm.pl
+Kamila Gasiuk-Pihowicz,18  Siedlce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",40,Kamila.Gasiuk-Pihowicz@sejm.pl
+Krzysztof Gawkowski,4  Bydgoszcz,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",43,Krzysztof.Gawkowski@sejm.pl
+Zdzisław Gawlik,23  Rzeszów,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",63,Zdzislaw.Gawlik@sejm.pl
+Andrzej Gawron,28  Częstochowa,Klub Parlamentarny Prawo i Sprawiedliwość,58,Andrzej.Gawron@sejm.pl
+Grzegorz Gaża,27  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,51,Grzegorz.Gaza@sejm.pl
+Elżbieta Gelert,34  Elbląg,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",68,Elzbieta.Gelert@sejm.pl
+Anna Gembicka,5  Toruń,Klub Parlamentarny Prawo i Sprawiedliwość,32,Anna.Gembicka@sejm.pl
+Artur Daniel Gierada,33  Kielce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",44,Artur.Gierada@sejm.pl
+Roman Giertych,33  Kielce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",52,Roman.Giertych@sejm.pl
+Włodzisław Giziński,4  Bydgoszcz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",71,Wlodzislaw.Gizinski@sejm.pl
+Szymon Giżyński,28  Częstochowa,Klub Parlamentarny Prawo i Sprawiedliwość,67,Szymon.Gizynski@sejm.pl
+Piotr Gliński,19  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,69,Piotr.Glinski@sejm.pl
+Tomasz Głogowski,29  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",49,Tomasz.Glogowski@sejm.pl
+Piotr Głowski,38  Piła,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",56,Piotr.Glowski@sejm.pl
+Marta Golbik,29  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",38,Marta.Golbik@sejm.pl
+Małgorzata Golińska,40  Koszalin,Klub Parlamentarny Prawo i Sprawiedliwość,43,Malgorzata.Golinska@sejm.pl
+Kazimierz Gołojuch,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,59,Kazimierz.Golojuch@sejm.pl
+Adam Gomoła,21  Opole,Klub Parlamentarny Polska 2050 - Trzecia Droga,24,Adam.Gomola@sejm.pl
+Robert Gontarz,34  Elbląg,Klub Parlamentarny Prawo i Sprawiedliwość,30,Robert.Gontarz@sejm.pl
+Stanisław Gorczyca,34  Elbląg,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",65,Stanislaw.Gorczyca@sejm.pl
+Mariusz Gosek,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,41,Mariusz.Gosek@sejm.pl
+Daria Gosek-Popiołek,13  Kraków,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",38,Daria.Gosek-Popiolek@sejm.pl
+Małgorzata Gosiewska,19  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,57,Malgorzata.Gosiewska@sejm.pl
+Piotr Górnikiewicz,15  Tarnów,Klub Parlamentarny Polska 2050 - Trzecia Droga,51,Piotr.Gornikiewicz@sejm.pl
+Agnieszka Górska,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,48,Agnieszka.Gorska@sejm.pl
+Krzysztof Grabczuk,7  Chełm,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",61,Krzysztof.Grabczuk@sejm.pl
+Jan Grabiec,20  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",51,Jan.Grabiec@sejm.pl
+Marcin Grabowski,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,42,Marcin.Grabowski@sejm.pl
+Michał Gramatyka,31  Katowice,Klub Parlamentarny Polska 2050 - Trzecia Droga,52,Michal.Gramatyka@sejm.pl
+Małgorzata Gromadzka,7  Chełm,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",38,Malgorzata.Gromadzka@sejm.pl
+Marek Gróbarczyk,41  Szczecin,Klub Parlamentarny Prawo i Sprawiedliwość,55,Marek.Grobarczyk@sejm.pl
+Andrzej Grzyb,36  Kalisz,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,67,Andrzej.Grzyb@sejm.pl
+Andrzej Gut-Mostowy,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,63,Andrzej.Gut-Mostowy@sejm.pl
+Kazimierz Gwiazdowski,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,61,Kazimierz.Gwiazdowski@sejm.pl
+Marcin Gwóźdź,2  Wałbrzych,Klub Parlamentarny Prawo i Sprawiedliwość,46,Marcin.Gwozdz@sejm.pl
+Marek Gzik,29  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",52,Marek.Gzik@sejm.pl
+Krzysztof Habura,11  Sieradz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",67,Krzysztof.Habura@sejm.pl
+Agnieszka Hanajczyk,11  Sieradz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",60,Agnieszka.Hanajczyk@sejm.pl
+Iwona Hartwich,5  Toruń,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",53,Iwona.Hartwich@sejm.pl
+Paulina Hennig-Kloska,37  Konin,Klub Parlamentarny Polska 2050 - Trzecia Droga,46,Paulina.Hennig-Kloska@sejm.pl
+Krzysztof Hetman,6  Lublin,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,49,Krzysztof.Hetman@sejm.pl
+Czesław Hoc,40  Koszalin,Klub Parlamentarny Prawo i Sprawiedliwość,69,Czeslaw.Hoc@sejm.pl
+Zbigniew Hoffmann,37  Konin,Klub Parlamentarny Prawo i Sprawiedliwość,60,Zbigniew.Hoffmann@sejm.pl
+Marek Tomasz Hok,40  Koszalin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",70,Marek.Hok@sejm.pl
+Szymon Hołownia,24  Białystok,Klub Parlamentarny Polska 2050 - Trzecia Droga,47,Szymon.Holownia@sejm.pl
+Marcin Horała,26  Słupsk,Klub Parlamentarny Prawo i Sprawiedliwość,42,Marcin.Horala@sejm.pl
+Łukasz Horbatowski,1  Legnica,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",43,Lukasz.Horbatowski@sejm.pl
+Paweł Hreniak,3  Wrocław,Klub Parlamentarny Prawo i Sprawiedliwość,44,Pawel.Hreniak@sejm.pl
+Paweł Jabłoński,30  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,37,Pawel.Jablonski@sejm.pl
+Klaudia Jachira,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",35,Klaudia.Jachira@sejm.pl
+Marek Jakubiak,19  Warszawa,Koło Poselskie Kukiz'15,64,Marek.Jakubiak@sejm.pl
+Maria Małgorzata Janyska,38  Piła,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",61,Maria.Janyska@sejm.pl
+Michał Jaros,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",42,Michal.Jaros@sejm.pl
+Patryk Jaskulski,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",33,Patryk.Jaskulski@sejm.pl
+Danuta Jazłowiecka,21  Opole,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",66,Danuta.Jazlowiecka@sejm.pl
+Dariusz Joński,9  Łódź,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",44,Dariusz.Jonski@sejm.pl
+Marcin Józefaciuk,9  Łódź,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",41,Marcin.Jozefaciuk@sejm.pl
+Norbert Jakub Kaczmarczyk,15  Tarnów,Klub Parlamentarny Prawo i Sprawiedliwość,34,Norbert.Kaczmarczyk@sejm.pl
+Filip Kaczyński,12  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,36,Filip.Kaczynski@sejm.pl
+Jarosław Kaczyński,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,74,Jaroslaw.Kaczynski@sejm.pl
+Piotr Kaleta,36  Kalisz,Klub Parlamentarny Prawo i Sprawiedliwość,55,Piotr.Kaleta@sejm.pl
+Sebastian Kaleta,19  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,34,Sebastian.Kaleta@sejm.pl
+Mariusz Kałużny,5  Toruń,Klub Parlamentarny Prawo i Sprawiedliwość,37,Mariusz.Kaluzny@sejm.pl
+Mariusz Kamiński,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,58,Mariusz.Kaminski@sejm.pl
+Piotr Kandyba,20  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",54,Piotr.Kandyba@sejm.pl
+Jan Kanthak,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,32,Jan.Kanthak@sejm.pl
+Fryderyk Sylwester Kapinos,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,62,Fryderyk.Kapinos@sejm.pl
+Jacek Karnowski,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",60,Jacek.Karnowski@sejm.pl
+Iwona Karolewska,4  Bydgoszcz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",49,Iwona.Karolewska@sejm.pl
+Rafał Kasprzyk,33  Kielce,Klub Parlamentarny Polska 2050 - Trzecia Droga,52,Rafal.Kasprzyk@sejm.pl
+Henryk Kiepura,28  Częstochowa,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,54,Henryk.Kiepura@sejm.pl
+Marcin Kierwiński,16  Płock,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",47,Marcin.Kierwinski@sejm.pl
+Katarzyna Kierzek-Koperska,39  Poznań,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",49,Katarzyna.Kierzek-Koperska@sejm.pl
+Dariusz Klimczak,10  Piotrków Trybunalski,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,43,Dariusz.Klimczak@sejm.pl
+Joanna Kluzik-Rostkowska,17  Radom,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",60,Joanna.Kluzik-Rostkowska@sejm.pl
+Agnieszka Maria Kłopotek,4  Bydgoszcz,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,54,Agnieszka.Klopotek@sejm.pl
+Łukasz Kmita,12  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,38,Lukasz.Kmita@sejm.pl
+Michał Kobosko,19  Warszawa,Klub Parlamentarny Polska 2050 - Trzecia Droga,55,Michal.Kobosko@sejm.pl
+Maria Koc,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,59,Maria.Koc@sejm.pl
+Ewa Kołodziej,31  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",45,Ewa.Kolodziej@sejm.pl
+Magdalena Małgorzata Kołodziejczak,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",65,Magdalena.Kolodziejczak@sejm.pl
+Michał Kołodziejczak,37  Konin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",35,Michal.Kolodziejczak@sejm.pl
+Rafał Komarewicz,13  Kraków,Klub Parlamentarny Polska 2050 - Trzecia Droga,52,Rafal.Komarewicz@sejm.pl
+Maciej Konieczny,31  Katowice,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",43,Maciej.Konieczny@sejm.pl
+Zbigniew Konwiński,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",49,Zbigniew.Konwinski@sejm.pl
+Władysław Kosiniak-Kamysz,15  Tarnów,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,42,Wladyslaw.Kosiniak-Kamysz@sejm.pl
+Tomasz Kostuś,21  Opole,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",49,Tomasz.Kostus@sejm.pl
+Andrzej Kosztowniak,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,47,Andrzej.Kosztowniak@sejm.pl
+Katarzyna Kotula,25  Gdańsk,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",46,Katarzyna.Kotula@sejm.pl
+Paweł Kowal,23  Rzeszów,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",48,Pawel.Kowal@sejm.pl
+Henryk Kowalczyk,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,67,Henryk.Kowalczyk@sejm.pl
+Janusz Kowalski,21  Opole,Klub Parlamentarny Prawo i Sprawiedliwość,45,Janusz.Kowalski@sejm.pl
+Bartosz Józef Kownacki,4  Bydgoszcz,Klub Parlamentarny Prawo i Sprawiedliwość,44,Bartosz.Kownacki@sejm.pl
+Iwona Maria Kozłowska,4  Bydgoszcz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",60,Iwona.Kozlowska@sejm.pl
+Stefan Krajewski,24  Białystok,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,42,Stefan.Krajewski@sejm.pl
+Wiesław Krajewski,15  Tarnów,Klub Parlamentarny Prawo i Sprawiedliwość,59,Wieslaw.Krajewski@sejm.pl
+Leonard Krasulski,34  Elbląg,Klub Parlamentarny Prawo i Sprawiedliwość,73,Leonard.Krasulski@sejm.pl
+Iwona Małgorzata Krawczyk,1  Legnica,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",58,Iwona.Krawczyk@sejm.pl
+Michał Krawczyk,6  Lublin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",45,Michal.Krawczyk@sejm.pl
+Robert Kropiwnicki,1  Legnica,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",49,Robert.Kropiwnicki@sejm.pl
+Piotr Król,4  Bydgoszcz,Klub Parlamentarny Prawo i Sprawiedliwość,49,Piotr.Krol@sejm.pl
+Wojciech Król,31  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",38,Wojciech.Krol@sejm.pl
+Anna Krupka,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,42,Anna.Krupka@sejm.pl
+Andrzej Kryj,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,63,Andrzej.Kryj@sejm.pl
+Mariusz Krystian,12  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,47,Mariusz.Krystian@sejm.pl
+Marek Krząkała,30  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",56,Marek.Krzakala@sejm.pl
+Adam Krzemiński,16  Płock,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",48,Adam.Krzeminski@sejm.pl
+Henryka Krzywonos-Strycharska,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",70,Henryka.Krzywonos-Strycharska@sejm.pl
+Krzysztof Kubów,1  Legnica,Klub Parlamentarny Prawo i Sprawiedliwość,39,Krzysztof.Kubow@sejm.pl
+Anita Kucharska-Dziedzic,8  Zielona Góra,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",51,Anita.Kucharska-Dziedzic@sejm.pl
+Marek Kuchciński,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,68,Marek.Kuchcinski@sejm.pl
+Paweł Kukiz,21  Opole,Koło Poselskie Kukiz'15,60,Pawel.Kukiz@sejm.pl
+Marcin Kulasek,35  Olsztyn,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",47,Marcin.Kulasek@sejm.pl
+Maria Kurowska,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,69,Maria.Kurowska@sejm.pl
+Władysław Kurowski,12  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,63,Wladyslaw.Kurowski@sejm.pl
+Zbigniew Krzysztof Kuźmiuk,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,67,Zbigniew.Kuzmiuk@sejm.pl
+Anna Kwiecień,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,59,Anna.Kwiecien@sejm.pl
+Piotr Lachowicz,14  Nowy Sącz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",56,Piotr.Lachowicz@sejm.pl
+Stanisław Lamczyk,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",66,Stanislaw.Lamczyk@sejm.pl
+Maciej Lasek,20  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",56,Maciej.Lasek@sejm.pl
+Gabriela Lenartowicz,30  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",63,Gabriela.Lenartowicz@sejm.pl
+Ewa Leniart,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,47,Ewa.Leniart@sejm.pl
+Aleksandra Leo,2  Wałbrzych,Klub Parlamentarny Polska 2050 - Trzecia Droga,42,Aleksandra.Leo@sejm.pl
+Izabela Leszczyna,28  Częstochowa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",61,Izabela.Leszczyna@sejm.pl
+Joanna Lichocka,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,54,Joanna.Lichocka@sejm.pl
+Krzysztof Lipiec,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,64,Krzysztof.Lipiec@sejm.pl
+Łukasz Litewka,32  Katowice,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",34,Lukasz.Litewka@sejm.pl
+Grzegorz Lorek,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,53,Grzegorz.Lorek@sejm.pl
+Radosław Lubczyk,40  Koszalin,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,45,Radoslaw.Lubczyk@sejm.pl
+Katarzyna Anna Lubnauer,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",54,Katarzyna.Lubnauer@sejm.pl
+Adam Luboński,38  Piła,Klub Parlamentarny Polska 2050 - Trzecia Droga,54,Adam.Lubonski@sejm.pl
+Artur Jarosław Łącki,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",62,Artur.Lacki@sejm.pl
+Alicja Łepkowska-Gołaś,24  Białystok,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",41,Alicja.Lepkowska-Golas@sejm.pl
+Dorota Łoboda,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",48,Dorota.Loboda@sejm.pl
+Krystian Łuczak,5  Toruń,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",48,Krystian.Luczak@sejm.pl
+Sebastian Łukaszewicz,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,32,Sebastian.Lukaszewicz@sejm.pl
+Marzena Anna Machałek,1  Legnica,Klub Parlamentarny Prawo i Sprawiedliwość,63,Marzena.Machalek@sejm.pl
+Antoni Macierewicz,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,75,Antoni.Macierewicz@sejm.pl
+Marlena Magdalena Maląg,36  Kalisz,Klub Parlamentarny Prawo i Sprawiedliwość,59,Marlena.Malag@sejm.pl
+Ewa Malik,32  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,62,Ewa.Malik@sejm.pl
+Mirosław Maliszewski,17  Radom,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,55,Miroslaw.Maliszewski@sejm.pl
+Maciej Małecki,16  Płock,Klub Parlamentarny Prawo i Sprawiedliwość,49,Maciej.Malecki@sejm.pl
+Arkadiusz Marchewka,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",37,Arkadiusz.Marchewka@sejm.pl
+Jagna Marczułajtis-Walczak,13  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",45,Jagna.Marczulajtis-Walczak@sejm.pl
+Dorota Marek,13  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",50,Dorota.Marek@sejm.pl
+Dariusz Matecki,41  Szczecin,Klub Parlamentarny Prawo i Sprawiedliwość,34,Dariusz.Matecki@sejm.pl
+Jerzy Materna,8  Zielona Góra,Klub Parlamentarny Prawo i Sprawiedliwość,67,Jerzy.Materna@sejm.pl
+Grzegorz Matusiak,30  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,62,Grzegorz.Matusiak@sejm.pl
+Katarzyna Matusik-Lipiec,13  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",48,Katarzyna.Matusik-Lipiec@sejm.pl
+Marek Matuszewski,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,64,Marek.Matuszewski@sejm.pl
+Paulina Matysiak,11  Sieradz,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",39,Paulina.Matysiak@sejm.pl
+Łukasz Mejza,8  Zielona Góra,Klub Parlamentarny Prawo i Sprawiedliwość,32,Lukasz.Mejza@sejm.pl
+Sławomir Mentzen,19  Warszawa,Klub Poselski Konfederacja,37,Slawomir.Mentzen@sejm.pl
+Anna Milczanowska,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,65,Anna.Milczanowska@sejm.pl
+Daniel Milewski,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,34,Daniel.Milewski@sejm.pl
+Rajmund Miller,21  Opole,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",69,Rajmund.Miller@sejm.pl
+Aleksander Miszalski,13  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",43,Aleksander.Miszalski@sejm.pl
+Mateusz Morawiecki,31  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,55,Mateusz.Morawiecki@sejm.pl
+Jan Mosiński,36  Kalisz,Klub Parlamentarny Prawo i Sprawiedliwość,67,Jan.Mosinski@sejm.pl
+Michał Moskal,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,29,Michal.Moskal@sejm.pl
+Czesław Mroczek,18  Siedlce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",59,Czeslaw.Mroczek@sejm.pl
+Aleksander Mikołaj Mrówczyński,26  Słupsk,Klub Parlamentarny Prawo i Sprawiedliwość,70,Aleksander.Mrowczynski@sejm.pl
+Izabela Katarzyna Mrzygłocka,2  Wałbrzych,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",64,Izabela.Mrzyglocka@sejm.pl
+Joanna Mucha,6  Lublin,Klub Parlamentarny Polska 2050 - Trzecia Droga,47,Joanna.Mucha@sejm.pl
+Arkadiusz Mularczyk,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,52,Arkadiusz.Mularczyk@sejm.pl
+Krzysztof Mulawa,18  Siedlce,Klub Poselski Konfederacja,38,Krzysztof.Mulawa@sejm.pl
+Piotr Müller,26  Słupsk,Klub Parlamentarny Prawo i Sprawiedliwość,34,Piotr.Muller@sejm.pl
+Arkadiusz Myrcha,5  Toruń,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",39,Arkadiusz.Myrcha@sejm.pl
+Grzegorz Bernard Napieralski,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",49,Grzegorz.Napieralski@sejm.pl
+Dorota Niedziela,12  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",59,Dorota.Niedziela@sejm.pl
+Jacek Niedźwiedzki,24  Białystok,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",48,Jacek.Niedzwiedzki@sejm.pl
+Małgorzata Niemczyk,9  Łódź,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",54,Malgorzata.Niemczyk@sejm.pl
+Jolanta Niezgodzka,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",32,Jolanta.Niezgodzka@sejm.pl
+Sławomir Nitras,41  Szczecin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",50,Slawomir.Nitras@sejm.pl
+Barbara Nowacka,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",48,Barbara.Nowacka@sejm.pl
+Maja Ewa Nowak,8  Zielona Góra,Klub Parlamentarny Polska 2050 - Trzecia Droga,36,Maja.Nowak@sejm.pl
+Tomasz Piotr Nowak,37  Konin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",67,Tomasz.Nowak@sejm.pl
+Wanda Nowicka,29  Katowice,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",67,Wanda.Nowicka@sejm.pl
+Urszula Nowogórska,14  Nowy Sącz,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,45,Urszula.Nowogorska@sejm.pl
+Mirosława Nykiel,27  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",70,Miroslawa.Nykiel@sejm.pl
+Marcin Ociepa,21  Opole,Klub Parlamentarny Prawo i Sprawiedliwość,39,Marcin.Ociepa@sejm.pl
+Marzena Okła-Drewnowicz,33  Kielce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",51,Marzena.Okla-Drewnowicz@sejm.pl
+Barbara Okuła,24  Białystok,Klub Parlamentarny Polska 2050 - Trzecia Droga,50,Barbara.Okula@sejm.pl
+Barbara Oliwiecka,36  Kalisz,Klub Parlamentarny Polska 2050 - Trzecia Droga,46,Barbara.Oliwiecka@sejm.pl
+Dorota Olko,19  Warszawa,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",35,Dorota.Olko@sejm.pl
+Paweł Olszewski,4  Bydgoszcz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",44,Pawel.Olszewski@sejm.pl
+Mirosław Adam Orliński,16  Płock,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,37,Miroslaw.Orlinski@sejm.pl
+Łukasz Osmalak,30  Bielsko-Biała,Klub Parlamentarny Polska 2050 - Trzecia Droga,46,Lukasz.Osmalak@sejm.pl
+Katarzyna Osos,8  Zielona Góra,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",43,Katarzyna.Osos@sejm.pl
+Jacek Osuch,13  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,65,Jacek.Osuch@sejm.pl
+Jacek Ozdoba,16  Płock,Klub Parlamentarny Prawo i Sprawiedliwość,32,Jacek.Ozdoba@sejm.pl
+Teresa Pamuła,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,67,Teresa.Pamula@sejm.pl
+Paweł Papke,35  Olsztyn,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",46,Pawel.Papke@sejm.pl
+Urszula Pasławska,35  Olsztyn,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,46,Urszula.Paslawska@sejm.pl
+Krzysztof Paszyk,38  Piła,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,44,Krzysztof.Paszyk@sejm.pl
+Karolina Pawliczak,36  Kalisz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",47,Karolina.Pawliczak@sejm.pl
+Bartłomiej Pejo,6  Lublin,Klub Poselski Konfederacja,38,Bartlomiej.Pejo@sejm.pl
+Ryszard Petru,19  Warszawa,Klub Parlamentarny Polska 2050 - Trzecia Droga,51,Ryszard.Petru@sejm.pl
+Małgorzata Pępek,27  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",62,Malgorzata.Pepek@sejm.pl
+Bolesław Piecha,30  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,69,Boleslaw.Piecha@sejm.pl
+Grzegorz Piechowiak,38  Piła,Klub Parlamentarny Prawo i Sprawiedliwość,60,Grzegorz.Piechowiak@sejm.pl
+Anna Pieczarka,15  Tarnów,Klub Parlamentarny Prawo i Sprawiedliwość,46,Anna.Pieczarka@sejm.pl
+Katarzyna Maria Piekarska,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",56,Katarzyna.Piekarska@sejm.pl
+Norbert Pietrykowski,4  Bydgoszcz,Klub Parlamentarny Polska 2050 - Trzecia Droga,50,Norbert.Pietrykowski@sejm.pl
+Lucjan Marek Pietrzczyk,33  Kielce,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",63,Lucjan.Pietrzczyk@sejm.pl
+Dariusz Piontkowski,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,59,Dariusz.Piontkowski@sejm.pl
+Kazimierz Plocke,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",65,Kazimierz.Plocke@sejm.pl
+Grzegorz Adam Płaczek,31  Katowice,Klub Poselski Konfederacja,45,Grzegorz.Placzek@sejm.pl
+Kacper Płażyński,25  Gdańsk,Klub Parlamentarny Prawo i Sprawiedliwość,34,Kacper.Plazynski@sejm.pl
+Szymon Pogoda,1  Legnica,Klub Parlamentarny Prawo i Sprawiedliwość,38,Szymon.Pogoda@sejm.pl
+Jerzy Polaczek,31  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,62,Jerzy.Polaczek@sejm.pl
+Elżbieta Anna Polak,8  Zielona Góra,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",64,Elzbieta.Polak@sejm.pl
+Piotr Polak,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,62,Piotr.Polak@sejm.pl
+Agnieszka Pomaska,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",43,Agnieszka.Pomaska@sejm.pl
+Marcin Porzucek,38  Piła,Klub Parlamentarny Prawo i Sprawiedliwość,39,Marcin.Porzucek@sejm.pl
+Jacek Protas,34  Elbląg,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",59,Jacek.Protas@sejm.pl
+Marcin Przydacz,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,38,Marcin.Przydacz@sejm.pl
+Grzegorz Puda,27  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,41,Grzegorz.Puda@sejm.pl
+Michał Pyrzyk,37  Konin,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,48,Michal.Pyrzyk@sejm.pl
+Renata Rak,40  Koszalin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",50,Renata.Rak@sejm.pl
+Ireneusz Raś,13  Kraków,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,51,Ireneusz.Ras@sejm.pl
+Zbigniew Rau,9  Łódź,Klub Parlamentarny Prawo i Sprawiedliwość,68,Zbigniew.Rau@sejm.pl
+Marcin Romanowski,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,47,Marcin.Romanowski@sejm.pl
+Bartosz Romowicz,22  Krosno,Klub Parlamentarny Polska 2050 - Trzecia Droga,35,Bartosz.Romowicz@sejm.pl
+Monika Rosa,31  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",37,Monika.Rosa@sejm.pl
+Wiesław Różyński,7  Chełm,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,55,Wieslaw.Rozynski@sejm.pl
+Urszula Rusecka,15  Tarnów,Klub Parlamentarny Prawo i Sprawiedliwość,57,Urszula.Rusecka@sejm.pl
+Grzegorz Rusiecki,36  Kalisz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",40,Grzegorz.Rusiecki@sejm.pl
+Jakub Rutnicki,38  Piła,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",45,Jakub.Rutnicki@sejm.pl
+Paweł Rychlik,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,37,Pawel.Rychlik@sejm.pl
+Marek Rząsa,22  Krosno,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",66,Marek.Rzasa@sejm.pl
+Jarosław Rzepa,41  Szczecin,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,51,Jaroslaw.Rzepa@sejm.pl
+Jarosław Sachajko,7  Chełm,Koło Poselskie Kukiz'15,52,Jaroslaw.Sachajko@sejm.pl
+Paweł Sałek,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,48,Pawel.Salek@sejm.pl
+Wojciech Saługa,32  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",54,Wojciech.Saluga@sejm.pl
+Tadeusz Samborski,1  Legnica,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,78,Tadeusz.Samborski@sejm.pl
+Jacek Sasin,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,54,Jacek.Sasin@sejm.pl
+Marek Sawicki,18  Siedlce,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,65,Marek.Sawicki@sejm.pl
+Ewa Schädler,39  Poznań,Klub Parlamentarny Polska 2050 - Trzecia Droga,55,Ewa.Schadler@sejm.pl
+Joanna Scheuring-Wielgus,5  Toruń,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",51,Joanna.Scheuring-Wielgus@sejm.pl
+Anna Schmidt,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,45,Anna.Schmidt@sejm.pl
+Łukasz Schreiber,4  Bydgoszcz,Klub Parlamentarny Prawo i Sprawiedliwość,36,Lukasz.Schreiber@sejm.pl
+Jarosław Sellin,25  Gdańsk,Klub Parlamentarny Prawo i Sprawiedliwość,60,Jaroslaw.Sellin@sejm.pl
+Olga Ewa Semeniuk-Patkowska,35  Olsztyn,Klub Parlamentarny Prawo i Sprawiedliwość,35,Olga.Semeniuk-Patkowska@sejm.pl
+Edward Siarka,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,60,Edward.Siarka@sejm.pl
+Krystyna Sibińska,8  Zielona Góra,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",61,Krystyna.Sibinska@sejm.pl
+Czesław Siekierski,33  Kielce,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,71,Czeslaw.Siekierski@sejm.pl
+Rafał Siemaszko,26  Słupsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",37,Rafal.Siemaszko@sejm.pl
+Tomasz Siemoniak,21  Opole,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",56,Tomasz.Siemoniak@sejm.pl
+Bartłomiej Sienkiewicz,13  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",62,Bartlomiej.Sienkiewicz@sejm.pl
+Arkadiusz Sikora,1  Legnica,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",50,Arkadiusz.Sikora@sejm.pl
+Włodzimierz Skalik,21  Opole,Klub Poselski Konfederacja,64,Wlodzimierz.Skalik@sejm.pl
+Marcin Skonieczka,5  Toruń,Klub Parlamentarny Polska 2050 - Trzecia Droga,45,Marcin.Skonieczka@sejm.pl
+Krystyna Skowrońska,23  Rzeszów,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",69,Krystyna.Skowronska@sejm.pl
+Sławomir Skwarek,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,60,Slawomir.Skwarek@sejm.pl
+Waldemar Sługocki,8  Zielona Góra,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",52,Waldemar.Slugocki@sejm.pl
+Weronika Smarduch,14  Nowy Sącz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",33,Weronika.Smarduch@sejm.pl
+Kazimierz Smoliński,25  Gdańsk,Klub Parlamentarny Prawo i Sprawiedliwość,68,Kazimierz.Smolinski@sejm.pl
+Anna Sobolak,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",44,Anna.Sobolak@sejm.pl
+Krzysztof Sobolewski,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,45,Krzysztof.Sobolewski@sejm.pl
+Artur Soboń,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,46,
+Agnieszka Anna Soin,3  Wrocław,Klub Parlamentarny Prawo i Sprawiedliwość,46,Agnieszka.Soin@sejm.pl
+Zbigniew Sosnowski,5  Toruń,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,60,Zbigniew.Sosnowski@sejm.pl
+Marek Sowa,12  Kraków,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",56,Marek.Sowa@sejm.pl
+Katarzyna Sójka,36  Kalisz,Klub Parlamentarny Prawo i Sprawiedliwość,37,Katarzyna.Sojka@sejm.pl
+Magdalena Sroka,25  Gdańsk,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,44,Magdalena.Sroka@sejm.pl
+Mirosława Stachowiak-Różecka,3  Wrocław,Klub Parlamentarny Prawo i Sprawiedliwość,50,Miroslawa.Stachowiak-Rozecka@sejm.pl
+Dariusz Stefaniuk,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,42,Dariusz.Stefaniuk@sejm.pl
+Franciszek Sterczewski,39  Poznań,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",35,Franciszek.Sterczewski@sejm.pl
+Piotr Paweł Strach,29  Katowice,Klub Parlamentarny Polska 2050 - Trzecia Droga,41,Piotr.Strach@sejm.pl
+Mirosław Suchoń,27  Bielsko-Biała,Klub Parlamentarny Polska 2050 - Trzecia Droga,47,Miroslaw.Suchon@sejm.pl
+Marek Suski,17  Radom,Klub Parlamentarny Prawo i Sprawiedliwość,65,Marek.Suski@sejm.pl
+Paweł Suski,40  Koszalin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",59,Pawel.Suski@sejm.pl
+Artur Szałabawka,41  Szczecin,Klub Parlamentarny Prawo i Sprawiedliwość,56,Artur.Szalabawka@sejm.pl
+Wojciech Szarama,29  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,68,Wojciech.Szarama@sejm.pl
+Wiesław Szczepański,36  Kalisz,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",63,Wieslaw.Szczepanski@sejm.pl
+Michał Szczerba,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",46,Michal.Szczerba@sejm.pl
+Krzysztof Szczucki,5  Toruń,Klub Parlamentarny Prawo i Sprawiedliwość,37,Krzysztof.Szczucki@sejm.pl
+Józefa Szczurek-Żelazko,15  Tarnów,Klub Parlamentarny Prawo i Sprawiedliwość,62,Jozefa.Szczurek-Zelazko@sejm.pl
+Paweł Szefernaker,40  Koszalin,Klub Parlamentarny Prawo i Sprawiedliwość,36,Pawel.Szefernaker@sejm.pl
+Andrzej Szejna,33  Kielce,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",50,Andrzej.Szejna@sejm.pl
+Andrzej Szewiński,28  Częstochowa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",53,Andrzej.Szewinski@sejm.pl
+Adam Szłapka,39  Poznań,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",39,Adam.Szlapka@sejm.pl
+Henryk Szopiński,38  Piła,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",61,Henryk.Szopinski@sejm.pl
+Paweł Szrot,4  Bydgoszcz,Klub Parlamentarny Prawo i Sprawiedliwość,48,Pawel.Szrot@sejm.pl
+Krystyna Szumilas,29  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",67,Krystyna.Szumilas@sejm.pl
+Stanisław Szwed,27  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,68,Stanislaw.Szwed@sejm.pl
+Ewa Szymanowska,9  Łódź,Klub Parlamentarny Polska 2050 - Trzecia Droga,45,Ewa.Szymanowska@sejm.pl
+Tomasz Szymański,5  Toruń,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",45,Tomasz.Szymanski@sejm.pl
+Szymon Szynkowski vel Sęk,39  Poznań,Klub Parlamentarny Prawo i Sprawiedliwość,41,Szymon.SzynkowskiVelSek@sejm.pl
+Łukasz Ściebiorowski,31  Katowice,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",43,Lukasz.Sciebiorowski@sejm.pl
+Agnieszka Ścigaj,13  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,48,Agnieszka.Scigaj@sejm.pl
+Andrzej Śliwka,34  Elbląg,Klub Parlamentarny Prawo i Sprawiedliwość,35,Andrzej.Sliwka@sejm.pl
+Paweł Śliz,12  Kraków,Klub Parlamentarny Polska 2050 - Trzecia Droga,43,Pawel.Sliz@sejm.pl
+Krzysztof Śmiszek,3  Wrocław,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",44,Krzysztof.Smiszek@sejm.pl
+Jacek Świat,3  Wrocław,Klub Parlamentarny Prawo i Sprawiedliwość,68,Jacek.Swiat@sejm.pl
+Apoloniusz Tajner,27  Bielsko-Biała,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",69,Apoloniusz.Tajner@sejm.pl
+Krzysztof Tchórzewski,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,73,Krzysztof.Tchorzewski@sejm.pl
+Robert Telus,10  Piotrków Trybunalski,Klub Parlamentarny Prawo i Sprawiedliwość,54,Robert.Telus@sejm.pl
+Ryszard Terlecki,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,74,Ryszard.Terlecki@sejm.pl
+Tadeusz Tomaszewski,37  Konin,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",64,Tadeusz.Tomaszewski@sejm.pl
+Jacek Tomczak,39  Poznań,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,50,Jacek.Tomczak@sejm.pl
+Wioleta Tomczak,26  Słupsk,Klub Parlamentarny Polska 2050 - Trzecia Droga,35,Wioleta.Tomczak@sejm.pl
+Cezary Tomczyk,11  Sieradz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",39,Cezary.Tomczyk@sejm.pl
+Stanisław Tomczyszyn,8  Zielona Góra,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,64,Stanislaw.Tomczyszyn@sejm.pl
+Małgorzata Tracz,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",38,Malgorzata.Tracz@sejm.pl
+Tomasz Trela,9  Łódź,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",44,Tomasz.Trela@sejm.pl
+Krzysztof Truskolaski,24  Białystok,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",33,Krzysztof.Truskolaski@sejm.pl
+Krzysztof Tuduj,3  Wrocław,Klub Poselski Konfederacja,42,Krzysztof.Tuduj@sejm.pl
+Sylwester Tułajew,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,42,Sylwester.Tulajew@sejm.pl
+Witold Tumanowicz,7  Chełm,Klub Poselski Konfederacja,37,Witold.Tumanowicz@sejm.pl
+Donald Tusk,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",66,Donald.Tusk@sejm.pl
+Stanisław Tyszka,26  Słupsk,Klub Poselski Konfederacja,44,Stanislaw.Tyszka@sejm.pl
+Katarzyna Ueberhan,39  Poznań,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",48,Katarzyna.Ueberhan@sejm.pl
+Jarosław Urbaniak,36  Kalisz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",57,Jaroslaw.Urbaniak@sejm.pl
+Piotr Uruski,22  Krosno,Klub Parlamentarny Prawo i Sprawiedliwość,47,Piotr.Uruski@sejm.pl
+Piotr Uściński,20  Warszawa,Klub Parlamentarny Prawo i Sprawiedliwość,46,Piotr.Uscinski@sejm.pl
+Jarosław Wałęsa,25  Gdańsk,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",47,Jaroslaw.Walesa@sejm.pl
+Marcin Warchoł,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,43,Marcin.Warchol@sejm.pl
+Robert Wardzała,15  Tarnów,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",48,Robert.Wardzala@sejm.pl
+Robert Warwas,32  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,47,Robert.Warwas@sejm.pl
+Jan Warzecha,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,64,Jan.Warzecha@sejm.pl
+Małgorzata Wassermann,13  Kraków,Klub Parlamentarny Prawo i Sprawiedliwość,45,Malgorzata.Wassermann@sejm.pl
+Michał Wawer,33  Kielce,Klub Poselski Konfederacja,34,Michal.Wawer@sejm.pl
+Maciej Wąsik,16  Płock,Klub Parlamentarny Prawo i Sprawiedliwość,54,Maciej.Wasik@sejm.pl
+Marta Wcisło,6  Lublin,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",54,Marta.Wcislo@sejm.pl
+Rafał Weber,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,42,Rafal.Weber@sejm.pl
+Marek Wesoły,31  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,51,Marek.Wesoly@sejm.pl
+Joanna Wicha,20  Warszawa,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",57,Joanna.Wicha@sejm.pl
+Patryk Wicher,14  Nowy Sącz,Klub Parlamentarny Prawo i Sprawiedliwość,37,Patryk.Wicher@sejm.pl
+Dariusz Wieczorek,41  Szczecin,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",58,Dariusz.Wieczorek@sejm.pl
+Jarosław Wiesław Wieczorek,29  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,42,Jaroslaw.Wieczorek@sejm.pl
+Monika Wielichowska,2  Wałbrzych,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",50,Monika.Wielichowska@sejm.pl
+Ryszard Wilk,14  Nowy Sącz,Klub Poselski Konfederacja,36,Ryszard.Wilk@sejm.pl
+Teresa Wilk,34  Elbląg,Klub Parlamentarny Prawo i Sprawiedliwość,71,Teresa.Wilk@sejm.pl
+Przemysław Wipler,5  Toruń,Klub Poselski Konfederacja,45,Przemyslaw.Wipler@sejm.pl
+Aleksandra Karolina Wiśniewska,9  Łódź,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",29,Aleksandra.Wisniewska@sejm.pl
+Adrian Witczak,10  Piotrków Trybunalski,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",32,Adrian.Witczak@sejm.pl
+Mariusz Witczak,36  Kalisz,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",52,Mariusz.Witczak@sejm.pl
+Elżbieta Witek,1  Legnica,Klub Parlamentarny Prawo i Sprawiedliwość,66,Elzbieta.Witek@sejm.pl
+Przemysław Witek,28  Częstochowa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",45,Przemyslaw.Witek@sejm.pl
+Kamil Wnuk,32  Katowice,Klub Parlamentarny Polska 2050 - Trzecia Droga,39,Kamil.Wnuk@sejm.pl
+Anna Wojciechowska,35  Olsztyn,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",63,Anna.Wojciechowska@sejm.pl
+Agnieszka Wojciechowska van Heukelom,9  Łódź,Klub Parlamentarny Prawo i Sprawiedliwość,59,Agnieszka.WojciechowskavanHeukelom@sejm.pl
+Agata Wojtyszek,33  Kielce,Klub Parlamentarny Prawo i Sprawiedliwość,56,Agata.Wojtyszek@sejm.pl
+Bogusław Wołoszański,10  Piotrków Trybunalski,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",73,Boguslaw.Woloszanski@sejm.pl
+Michał Woś,30  Bielsko-Biała,Klub Parlamentarny Prawo i Sprawiedliwość,32,Michal.Wos@sejm.pl
+Grzegorz Woźniak,18  Siedlce,Klub Parlamentarny Prawo i Sprawiedliwość,55,Grzegorz.Wozniak@sejm.pl
+Tadeusz Woźniak,11  Sieradz,Klub Parlamentarny Prawo i Sprawiedliwość,63,Tadeusz.Wozniak@sejm.pl
+Michał Wójcik,31  Katowice,Klub Parlamentarny Prawo i Sprawiedliwość,52,Michal.Wojcik@sejm.pl
+Maciej Wróbel,35  Olsztyn,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",40,Maciej.Wrobel@sejm.pl
+Bartłomiej Wróblewski,39  Poznań,Klub Parlamentarny Prawo i Sprawiedliwość,48,Bartlomiej.Wroblewski@sejm.pl
+Paweł Zalewski,20  Warszawa,Klub Parlamentarny Polska 2050 - Trzecia Droga,59,Pawel.Zalewski@sejm.pl
+Adrian Zandberg,19  Warszawa,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",44,Adrian.Zandberg@sejm.pl
+Andrzej Tomasz Zapałowski,22  Krosno,Klub Poselski Konfederacja,57,Andrzej.Zapalowski@sejm.pl
+Bartosz Zawieja,39  Poznań,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",45,Bartosz.Zawieja@sejm.pl
+Marcelina Zawisza,21  Opole,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",34,Marcelina.Zawisza@sejm.pl
+Sławomir Zawiślak,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,60,Slawomir.Zawislak@sejm.pl
+Bogdan Andrzej Zdrojewski,3  Wrocław,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",66,Bogdan.Zdrojewski@sejm.pl
+Witold Zembaczyński,21  Opole,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",43,Witold.Zembaczynski@sejm.pl
+Piotr Zgorzelski,16  Płock,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,60,Piotr.Zgorzelski@sejm.pl
+Zbigniew Ziejewski,34  Elbląg,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,65,Zbigniew.Ziejewski@sejm.pl
+Urszula Sara Zielińska,19  Warszawa,"Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",46,Urszula.Zielinska@sejm.pl
+Jarosław Zieliński,24  Białystok,Klub Parlamentarny Prawo i Sprawiedliwość,63,Jaroslaw.Zielinski@sejm.pl
+Tomasz Zieliński,7  Chełm,Klub Parlamentarny Prawo i Sprawiedliwość,56,Tomasz.Zielinski@sejm.pl
+Jolanta Zięba-Gzik,11  Sieradz,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,48,Jolanta.Zieba-Gzik@sejm.pl
+Tomasz Zimoch,3  Wrocław,Klub Parlamentarny Polska 2050 - Trzecia Droga,66,Tomasz.Zimoch@sejm.pl
+Zbigniew Ziobro,23  Rzeszów,Klub Parlamentarny Prawo i Sprawiedliwość,53,Zbigniew.Ziobro@sejm.pl
+Wojciech Michał Zubowski,1  Legnica,Klub Parlamentarny Prawo i Sprawiedliwość,44,Wojciech.Zubowski@sejm.pl
+Ireneusz Zyska,2  Wałbrzych,Klub Parlamentarny Prawo i Sprawiedliwość,54,Ireneusz.Zyska@sejm.pl
+Bożena Żelazowska,20  Warszawa,Klub Parlamentarny Polskie Stronnictwo Ludowe - Trzecia Droga,53,Bozena.Zelazowska@sejm.pl
+Anna Maria Żukowska,19  Warszawa,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Unia Pracy)",40,Anna.Zukowska@sejm.pl
+Anna Baluch,6  Lublin,Klub Parlamentarny Prawo i Sprawiedliwość,50,Anna.Baluch@sejm.pl
