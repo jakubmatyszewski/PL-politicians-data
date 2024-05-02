@@ -24,7 +24,7 @@ class StanScrapper:
 
     def get_age(self, birth_date: str) -> int:
         """Compute politician's age."""
-        bday, bmonth, byear = [int(x) for x in birth_date.split("-")]
+        byear, bmonth, bday = [int(x) for x in birth_date.split("-")]
         today = date.today()
         age = today.year - byear - ((today.month, today.day) < (bmonth, bday))
         return age
