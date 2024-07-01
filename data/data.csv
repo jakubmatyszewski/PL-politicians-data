@@ -1,11 +1,11 @@
 name,district,party,age,email
 Andrzej Adamczyk,13 Kraków,PiS,65,Andrzej.Adamczyk@sejm.pl
-Piotr Adamowicz,25 Gdańsk,KO,62,Piotr.Adamowicz@sejm.pl
-Adam Andruszkiewicz,24 Białystok,PiS,33,Adam.Andruszkiewicz@sejm.pl
+Piotr Adamowicz,25 Gdańsk,KO,63,Piotr.Adamowicz@sejm.pl
+Adam Andruszkiewicz,24 Białystok,PiS,34,Adam.Andruszkiewicz@sejm.pl
 Waldemar Andzel,32 Katowice,PiS,52,Waldemar.Andzel@sejm.pl
 Dorota Arciszewska-Mielewczyk,26 Słupsk,PiS,56,Dorota.Arciszewska-Mielewczyk@sejm.pl
 Jan Krzysztof Ardanowski,5 Toruń,PiS,63,Jan.Ardanowski@sejm.pl
-Iwona Ewa Arent,35 Olsztyn,PiS,55,Iwona.Arent@sejm.pl
+Iwona Ewa Arent,35 Olsztyn,PiS,56,Iwona.Arent@sejm.pl
 Bartosz Arłukowicz,40 Koszalin,KO,52,Bartosz.Arlukowicz@sejm.pl
 Marek Ast,8 Zielona Góra,PiS,65,Marek.Ast@sejm.pl
 Urszula Augustyn,15 Tarnów,KO,59,Urszula.Augustyn@sejm.pl
@@ -26,12 +26,12 @@ Jacek Bogucki,24 Białystok,PiS,65,Jacek.Bogucki@sejm.pl
 Zbigniew Bogucki,41 Szczecin,PiS,44,Zbigniew.Bogucki@sejm.pl
 Krzysztof Bojarski,6 Lublin,KO,55,Krzysztof.Bojarski@sejm.pl
 Joanna Borowiak,5 Toruń,PiS,56,Joanna.Borowiak@sejm.pl
-Kamil Bortniczuk,16 Płock,PiS,40,Kamil.Bortniczuk@sejm.pl
+Kamil Bortniczuk,16 Płock,PiS,41,Kamil.Bortniczuk@sejm.pl
 Piotr Borys,1 Legnica,KO,48,Piotr.Borys@sejm.pl
 Bożena Borys-Szopa,29 Katowice,PiS,70,Bozena.Borys-Szopa@sejm.pl
 Marcin Bosacki,39 Poznań,KO,53,Marcin.Bosacki@sejm.pl
 Karina Anna Bosak,20 Warszawa,Konfederacja,35,Karina.Bosak@sejm.pl
-Krzysztof Bosak,24 Białystok,Konfederacja,41,Krzysztof.Bosak@sejm.pl
+Krzysztof Bosak,24 Białystok,Konfederacja,42,Krzysztof.Bosak@sejm.pl
 Grzegorz Braun,23 Rzeszów,Konfederacja,57,Grzegorz.Braun@sejm.pl
 Krzysztof Brejza,4 Bydgoszcz,KO,41,Krzysztof.Brejza@sejm.pl
 Agnieszka Buczyńska,25 Gdańsk,Polska2050-TD,37,Agnieszka.Buczynska@sejm.pl
@@ -48,13 +48,13 @@ Tadeusz Chrzan,22 Krosno,PiS,60,Tadeusz.Chrzan@sejm.pl
 Alicja Chybicka,3 Wrocław,KO,73,Alicja.Chybicka@sejm.pl
 Anna Ewa Cicholska,16 Płock,PiS,62,Anna.Cicholska@sejm.pl
 Janusz Cichoń,35 Olsztyn,KO,67,Janusz.Cichon@sejm.pl
-Krzysztof Ciecióra,10 Piotrków Trybunalski,PiS,34,Krzysztof.Cieciora@sejm.pl
+Krzysztof Ciecióra,10 Piotrków Trybunalski,PiS,35,Krzysztof.Cieciora@sejm.pl
 Janusz Cieszyński,35 Olsztyn,PiS,36,Janusz.Cieszynski@sejm.pl
 Michał Cieślak,33 Kielce,PiS,49,Michal.Cieslak@sejm.pl
 Żaneta Cwalina-Śliwowska,18 Siedlce,Polska2050-TD,45,Zaneta.Cwalina-Sliwowska@sejm.pl
 Krzysztof Czarnecki,38 Piła,PiS,66,Krzysztof.Czarnecki@sejm.pl
 Witold Wojciech Czarnecki,37 Konin,PiS,71,Witold.Czarnecki@sejm.pl
-Przemysław Czarnek,6 Lublin,PiS,46,Przemyslaw.Czarnek@sejm.pl
+Przemysław Czarnek,6 Lublin,PiS,47,Przemyslaw.Czarnek@sejm.pl
 Arkadiusz Czartoryski,18 Siedlce,PiS,58,Arkadiusz.Czartoryski@sejm.pl
 Włodzimierz Czarzasty,32 Katowice,Lewica,64,Wlodzimierz.Czarzasty@sejm.pl
 Jacek Czerniak,6 Lublin,Lewica,59,Jacek.Czerniak@sejm.pl
@@ -120,17 +120,17 @@ Małgorzata Gromadzka,7 Chełm,KO,39,Malgorzata.Gromadzka@sejm.pl
 Marek Gróbarczyk,41 Szczecin,PiS,56,Marek.Grobarczyk@sejm.pl
 Andrzej Grzyb,36 Kalisz,PSL-TD,67,Andrzej.Grzyb@sejm.pl
 Andrzej Gut-Mostowy,14 Nowy Sącz,PiS,63,Andrzej.Gut-Mostowy@sejm.pl
-Kazimierz Gwiazdowski,24 Białystok,PiS,61,Kazimierz.Gwiazdowski@sejm.pl
+Kazimierz Gwiazdowski,24 Białystok,PiS,62,Kazimierz.Gwiazdowski@sejm.pl
 Marcin Gwóźdź,2 Wałbrzych,PiS,46,Marcin.Gwozdz@sejm.pl
 Marek Gzik,29 Katowice,KO,52,Marek.Gzik@sejm.pl
-Krzysztof Habura,11 Sieradz,KO,67,Krzysztof.Habura@sejm.pl
+Krzysztof Habura,11 Sieradz,KO,68,Krzysztof.Habura@sejm.pl
 Agnieszka Hanajczyk,11 Sieradz,KO,61,Agnieszka.Hanajczyk@sejm.pl
 Iwona Hartwich,5 Toruń,KO,53,Iwona.Hartwich@sejm.pl
 Paulina Hennig-Kloska,37 Konin,Polska2050-TD,46,Paulina.Hennig-Kloska@sejm.pl
-Krzysztof Hetman,6 Lublin,PSL-TD,49,Krzysztof.Hetman@sejm.pl
+Krzysztof Hetman,6 Lublin,PSL-TD,50,Krzysztof.Hetman@sejm.pl
 Czesław Hoc,40 Koszalin,PiS,70,Czeslaw.Hoc@sejm.pl
 Zbigniew Hoffmann,37 Konin,PiS,60,Zbigniew.Hoffmann@sejm.pl
-Marek Tomasz Hok,40 Koszalin,KO,70,Marek.Hok@sejm.pl
+Marek Tomasz Hok,40 Koszalin,KO,71,Marek.Hok@sejm.pl
 Szymon Hołownia,24 Białystok,Polska2050-TD,47,Szymon.Holownia@sejm.pl
 Marcin Horała,26 Słupsk,PiS,42,Marcin.Horala@sejm.pl
 Łukasz Horbatowski,1 Legnica,KO,44,Lukasz.Horbatowski@sejm.pl
@@ -146,8 +146,8 @@ Dariusz Joński,9 Łódź,KO,45,Dariusz.Jonski@sejm.pl
 Marcin Józefaciuk,9 Łódź,KO,41,Marcin.Jozefaciuk@sejm.pl
 Norbert Jakub Kaczmarczyk,15 Tarnów,PiS,34,Norbert.Kaczmarczyk@sejm.pl
 Filip Kaczyński,12 Kraków,PiS,36,Filip.Kaczynski@sejm.pl
-Jarosław Kaczyński,33 Kielce,PiS,74,Jaroslaw.Kaczynski@sejm.pl
-Piotr Kaleta,36 Kalisz,PiS,55,Piotr.Kaleta@sejm.pl
+Jarosław Kaczyński,33 Kielce,PiS,75,Jaroslaw.Kaczynski@sejm.pl
+Piotr Kaleta,36 Kalisz,PiS,56,Piotr.Kaleta@sejm.pl
 Sebastian Kaleta,19 Warszawa,PiS,34,Sebastian.Kaleta@sejm.pl
 Mariusz Kałużny,5 Toruń,PiS,37,Mariusz.Kaluzny@sejm.pl
 Mariusz Kamiński,7 Chełm,PiS,58,Mariusz.Kaminski@sejm.pl
@@ -159,17 +159,17 @@ Iwona Karolewska,4 Bydgoszcz,KO,50,Iwona.Karolewska@sejm.pl
 Rafał Kasprzyk,33 Kielce,Polska2050-TD,52,Rafal.Kasprzyk@sejm.pl
 Henryk Kiepura,28 Częstochowa,PSL-TD,54,Henryk.Kiepura@sejm.pl
 Marcin Kierwiński,16 Płock,KO,47,Marcin.Kierwinski@sejm.pl
-Katarzyna Kierzek-Koperska,39 Poznań,KO,49,Katarzyna.Kierzek-Koperska@sejm.pl
-Dariusz Klimczak,10 Piotrków Trybunalski,PSL-TD,43,Dariusz.Klimczak@sejm.pl
+Katarzyna Kierzek-Koperska,39 Poznań,KO,50,Katarzyna.Kierzek-Koperska@sejm.pl
+Dariusz Klimczak,10 Piotrków Trybunalski,PSL-TD,44,Dariusz.Klimczak@sejm.pl
 Joanna Kluzik-Rostkowska,17 Radom,KO,60,Joanna.Kluzik-Rostkowska@sejm.pl
 Agnieszka Maria Kłopotek,4 Bydgoszcz,PSL-TD,54,Agnieszka.Klopotek@sejm.pl
 Łukasz Kmita,12 Kraków,PiS,38,Lukasz.Kmita@sejm.pl
 Michał Kobosko,19 Warszawa,Polska2050-TD,56,Michal.Kobosko@sejm.pl
 Maria Koc,18 Siedlce,PiS,59,Maria.Koc@sejm.pl
 Ewa Kołodziej,31 Katowice,KO,45,Ewa.Kolodziej@sejm.pl
-Magdalena Małgorzata Kołodziejczak,25 Gdańsk,KO,65,Magdalena.Kolodziejczak@sejm.pl
+Magdalena Małgorzata Kołodziejczak,25 Gdańsk,KO,66,Magdalena.Kolodziejczak@sejm.pl
 Michał Kołodziejczak,37 Konin,KO,35,Michal.Kolodziejczak@sejm.pl
-Rafał Komarewicz,13 Kraków,Polska2050-TD,52,Rafal.Komarewicz@sejm.pl
+Rafał Komarewicz,13 Kraków,Polska2050-TD,53,Rafal.Komarewicz@sejm.pl
 Maciej Konieczny,31 Katowice,Lewica,43,Maciej.Konieczny@sejm.pl
 Zbigniew Konwiński,26 Słupsk,KO,50,Zbigniew.Konwinski@sejm.pl
 Władysław Kosiniak-Kamysz,15 Tarnów,PSL-TD,42,Wladyslaw.Kosiniak-Kamysz@sejm.pl
@@ -181,16 +181,16 @@ Henryk Kowalczyk,18 Siedlce,PiS,67,Henryk.Kowalczyk@sejm.pl
 Janusz Kowalski,21 Opole,PiS,46,Janusz.Kowalski@sejm.pl
 Bartosz Józef Kownacki,4 Bydgoszcz,PiS,44,Bartosz.Kownacki@sejm.pl
 Iwona Maria Kozłowska,4 Bydgoszcz,KO,60,Iwona.Kozlowska@sejm.pl
-Stefan Krajewski,24 Białystok,PSL-TD,42,Stefan.Krajewski@sejm.pl
-Wiesław Krajewski,15 Tarnów,PiS,59,Wieslaw.Krajewski@sejm.pl
+Stefan Krajewski,24 Białystok,PSL-TD,43,Stefan.Krajewski@sejm.pl
+Wiesław Krajewski,15 Tarnów,PiS,60,Wieslaw.Krajewski@sejm.pl
 Leonard Krasulski,34 Elbląg,PiS,73,Leonard.Krasulski@sejm.pl
 Iwona Małgorzata Krawczyk,1 Legnica,KO,58,Iwona.Krawczyk@sejm.pl
 Michał Krawczyk,6 Lublin,KO,46,Michal.Krawczyk@sejm.pl
 Robert Kropiwnicki,1 Legnica,KO,49,Robert.Kropiwnicki@sejm.pl
-Piotr Król,4 Bydgoszcz,PiS,49,Piotr.Krol@sejm.pl
+Piotr Król,4 Bydgoszcz,PiS,50,Piotr.Krol@sejm.pl
 Wojciech Król,31 Katowice,KO,39,Wojciech.Krol@sejm.pl
 Anna Krupka,33 Kielce,PiS,42,Anna.Krupka@sejm.pl
-Andrzej Kryj,33 Kielce,PiS,63,Andrzej.Kryj@sejm.pl
+Andrzej Kryj,33 Kielce,PiS,64,Andrzej.Kryj@sejm.pl
 Mariusz Krystian,12 Kraków,PiS,47,Mariusz.Krystian@sejm.pl
 Marek Krząkała,30 Bielsko-Biała,KO,56,Marek.Krzakala@sejm.pl
 Adam Krzemiński,16 Płock,KO,49,Adam.Krzeminski@sejm.pl
@@ -198,15 +198,15 @@ Henryka Krzywonos-Strycharska,26 Słupsk,KO,71,Henryka.Krzywonos-Strycharska@sej
 Krzysztof Kubów,1 Legnica,PiS,39,Krzysztof.Kubow@sejm.pl
 Anita Kucharska-Dziedzic,8 Zielona Góra,Lewica,52,Anita.Kucharska-Dziedzic@sejm.pl
 Marek Kuchciński,22 Krosno,PiS,68,Marek.Kuchcinski@sejm.pl
-Paweł Kukiz,21 Opole,Kukiz15,60,Pawel.Kukiz@sejm.pl
+Paweł Kukiz,21 Opole,Kukiz15,61,Pawel.Kukiz@sejm.pl
 Marcin Kulasek,35 Olsztyn,Lewica,48,Marcin.Kulasek@sejm.pl
-Maria Kurowska,22 Krosno,PiS,69,Maria.Kurowska@sejm.pl
+Maria Kurowska,22 Krosno,PiS,70,Maria.Kurowska@sejm.pl
 Władysław Kurowski,12 Kraków,PiS,64,Wladyslaw.Kurowski@sejm.pl
 Zbigniew Krzysztof Kuźmiuk,17 Radom,PiS,67,Zbigniew.Kuzmiuk@sejm.pl
 Anna Kwiecień,17 Radom,PiS,59,Anna.Kwiecien@sejm.pl
 Piotr Lachowicz,14 Nowy Sącz,KO,56,Piotr.Lachowicz@sejm.pl
 Stanisław Lamczyk,26 Słupsk,KO,66,Stanislaw.Lamczyk@sejm.pl
-Maciej Lasek,20 Warszawa,KO,56,Maciej.Lasek@sejm.pl
+Maciej Lasek,20 Warszawa,KO,57,Maciej.Lasek@sejm.pl
 Gabriela Lenartowicz,30 Bielsko-Biała,KO,63,Gabriela.Lenartowicz@sejm.pl
 Ewa Leniart,23 Rzeszów,PiS,47,Ewa.Leniart@sejm.pl
 Aleksandra Leo,2 Wałbrzych,Polska2050-TD,43,Aleksandra.Leo@sejm.pl
@@ -235,7 +235,7 @@ Dorota Marek,13 Kraków,KO,50,Dorota.Marek@sejm.pl
 Dariusz Matecki,41 Szczecin,PiS,35,Dariusz.Matecki@sejm.pl
 Jerzy Materna,8 Zielona Góra,PiS,68,Jerzy.Materna@sejm.pl
 Grzegorz Matusiak,30 Bielsko-Biała,PiS,63,Grzegorz.Matusiak@sejm.pl
-Katarzyna Matusik-Lipiec,13 Kraków,KO,48,Katarzyna.Matusik-Lipiec@sejm.pl
+Katarzyna Matusik-Lipiec,13 Kraków,KO,49,Katarzyna.Matusik-Lipiec@sejm.pl
 Marek Matuszewski,11 Sieradz,PiS,64,Marek.Matuszewski@sejm.pl
 Paulina Matysiak,11 Sieradz,Lewica,39,Paulina.Matysiak@sejm.pl
 Łukasz Mejza,8 Zielona Góra,PiS,33,Lukasz.Mejza@sejm.pl
@@ -244,7 +244,7 @@ Anna Milczanowska,10 Piotrków Trybunalski,PiS,65,Anna.Milczanowska@sejm.pl
 Daniel Milewski,18 Siedlce,PiS,34,Daniel.Milewski@sejm.pl
 Rajmund Miller,21 Opole,KO,69,Rajmund.Miller@sejm.pl
 Aleksander Miszalski,13 Kraków,KO,43,Aleksander.Miszalski@sejm.pl
-Mateusz Morawiecki,31 Katowice,PiS,55,Mateusz.Morawiecki@sejm.pl
+Mateusz Morawiecki,31 Katowice,PiS,56,Mateusz.Morawiecki@sejm.pl
 Jan Mosiński,36 Kalisz,PiS,67,Jan.Mosinski@sejm.pl
 Michał Moskal,6 Lublin,PiS,30,Michal.Moskal@sejm.pl
 Czesław Mroczek,18 Siedlce,KO,59,Czeslaw.Mroczek@sejm.pl
@@ -252,12 +252,12 @@ Aleksander Mikołaj Mrówczyński,26 Słupsk,PiS,70,Aleksander.Mrowczynski@sejm.
 Izabela Katarzyna Mrzygłocka,2 Wałbrzych,KO,65,Izabela.Mrzyglocka@sejm.pl
 Joanna Mucha,6 Lublin,Polska2050-TD,48,Joanna.Mucha@sejm.pl
 Arkadiusz Mularczyk,14 Nowy Sącz,PiS,53,Arkadiusz.Mularczyk@sejm.pl
-Krzysztof Mulawa,18 Siedlce,Konfederacja,38,Krzysztof.Mulawa@sejm.pl
+Krzysztof Mulawa,18 Siedlce,Konfederacja,39,Krzysztof.Mulawa@sejm.pl
 Piotr Müller,26 Słupsk,PiS,35,Piotr.Muller@sejm.pl
 Arkadiusz Myrcha,5 Toruń,KO,40,Arkadiusz.Myrcha@sejm.pl
 Grzegorz Bernard Napieralski,41 Szczecin,KO,50,Grzegorz.Napieralski@sejm.pl
 Dorota Niedziela,12 Kraków,KO,59,Dorota.Niedziela@sejm.pl
-Jacek Niedźwiedzki,24 Białystok,KO,48,Jacek.Niedzwiedzki@sejm.pl
+Jacek Niedźwiedzki,24 Białystok,KO,49,Jacek.Niedzwiedzki@sejm.pl
 Małgorzata Niemczyk,9 Łódź,KO,54,Malgorzata.Niemczyk@sejm.pl
 Jolanta Niezgodzka,3 Wrocław,KO,33,Jolanta.Niezgodzka@sejm.pl
 Sławomir Nitras,41 Szczecin,KO,51,Slawomir.Nitras@sejm.pl
@@ -274,7 +274,7 @@ Barbara Oliwiecka,36 Kalisz,Polska2050-TD,47,Barbara.Oliwiecka@sejm.pl
 Dorota Olko,19 Warszawa,Lewica,36,Dorota.Olko@sejm.pl
 Paweł Olszewski,4 Bydgoszcz,KO,44,Pawel.Olszewski@sejm.pl
 Mirosław Adam Orliński,16 Płock,PSL-TD,37,Miroslaw.Orlinski@sejm.pl
-Łukasz Osmalak,30 Bielsko-Biała,Polska2050-TD,46,Lukasz.Osmalak@sejm.pl
+Łukasz Osmalak,30 Bielsko-Biała,Polska2050-TD,47,Lukasz.Osmalak@sejm.pl
 Katarzyna Osos,8 Zielona Góra,KO,43,Katarzyna.Osos@sejm.pl
 Jacek Osuch,13 Kraków,PiS,65,Jacek.Osuch@sejm.pl
 Jacek Ozdoba,16 Płock,PiS,32,Jacek.Ozdoba@sejm.pl
@@ -282,10 +282,10 @@ Teresa Pamuła,22 Krosno,PiS,67,Teresa.Pamula@sejm.pl
 Paweł Papke,35 Olsztyn,KO,47,Pawel.Papke@sejm.pl
 Urszula Pasławska,35 Olsztyn,PSL-TD,47,Urszula.Paslawska@sejm.pl
 Krzysztof Paszyk,38 Piła,PSL-TD,45,Krzysztof.Paszyk@sejm.pl
-Karolina Pawliczak,36 Kalisz,KO,47,Karolina.Pawliczak@sejm.pl
+Karolina Pawliczak,36 Kalisz,KO,48,Karolina.Pawliczak@sejm.pl
 Bartłomiej Pejo,6 Lublin,Konfederacja,39,Bartlomiej.Pejo@sejm.pl
 Ryszard Petru,19 Warszawa,Polska2050-TD,51,Ryszard.Petru@sejm.pl
-Małgorzata Pępek,27 Bielsko-Biała,KO,62,Malgorzata.Pepek@sejm.pl
+Małgorzata Pępek,27 Bielsko-Biała,KO,63,Malgorzata.Pepek@sejm.pl
 Bolesław Piecha,30 Bielsko-Biała,PiS,69,Boleslaw.Piecha@sejm.pl
 Grzegorz Piechowiak,38 Piła,PiS,60,Grzegorz.Piechowiak@sejm.pl
 Anna Pieczarka,15 Tarnów,PiS,47,Anna.Pieczarka@sejm.pl
@@ -303,16 +303,16 @@ Piotr Polak,11 Sieradz,PiS,63,Piotr.Polak@sejm.pl
 Agnieszka Pomaska,25 Gdańsk,KO,44,Agnieszka.Pomaska@sejm.pl
 Marcin Porzucek,38 Piła,PiS,39,Marcin.Porzucek@sejm.pl
 Jacek Protas,34 Elbląg,KO,60,Jacek.Protas@sejm.pl
-Marcin Przydacz,11 Sieradz,PiS,38,Marcin.Przydacz@sejm.pl
+Marcin Przydacz,11 Sieradz,PiS,39,Marcin.Przydacz@sejm.pl
 Grzegorz Puda,27 Bielsko-Biała,PiS,41,Grzegorz.Puda@sejm.pl
-Michał Pyrzyk,37 Konin,PSL-TD,48,Michal.Pyrzyk@sejm.pl
-Renata Rak,40 Koszalin,KO,50,Renata.Rak@sejm.pl
+Michał Pyrzyk,37 Konin,PSL-TD,49,Michal.Pyrzyk@sejm.pl
+Renata Rak,40 Koszalin,KO,51,Renata.Rak@sejm.pl
 Ireneusz Raś,13 Kraków,PSL-TD,51,Ireneusz.Ras@sejm.pl
 Zbigniew Rau,9 Łódź,PiS,69,Zbigniew.Rau@sejm.pl
 Marcin Romanowski,7 Chełm,PiS,48,Marcin.Romanowski@sejm.pl
-Bartosz Romowicz,22 Krosno,Polska2050-TD,35,Bartosz.Romowicz@sejm.pl
+Bartosz Romowicz,22 Krosno,Polska2050-TD,36,Bartosz.Romowicz@sejm.pl
 Monika Rosa,31 Katowice,KO,38,Monika.Rosa@sejm.pl
-Wiesław Różyński,7 Chełm,PSL-TD,55,Wieslaw.Rozynski@sejm.pl
+Wiesław Różyński,7 Chełm,PSL-TD,56,Wieslaw.Rozynski@sejm.pl
 Urszula Rusecka,15 Tarnów,PiS,57,Urszula.Rusecka@sejm.pl
 Grzegorz Rusiecki,36 Kalisz,KO,41,Grzegorz.Rusiecki@sejm.pl
 Jakub Rutnicki,38 Piła,KO,45,Jakub.Rutnicki@sejm.pl
@@ -320,7 +320,7 @@ Paweł Rychlik,11 Sieradz,PiS,37,Pawel.Rychlik@sejm.pl
 Marek Rząsa,22 Krosno,KO,66,Marek.Rzasa@sejm.pl
 Jarosław Rzepa,41 Szczecin,PSL-TD,51,Jaroslaw.Rzepa@sejm.pl
 Jarosław Sachajko,7 Chełm,Kukiz15,52,Jaroslaw.Sachajko@sejm.pl
-Paweł Sałek,10 Piotrków Trybunalski,PiS,48,Pawel.Salek@sejm.pl
+Paweł Sałek,10 Piotrków Trybunalski,PiS,49,Pawel.Salek@sejm.pl
 Wojciech Saługa,32 Katowice,KO,55,Wojciech.Saluga@sejm.pl
 Tadeusz Samborski,1 Legnica,PSL-TD,78,Tadeusz.Samborski@sejm.pl
 Jacek Sasin,24 Białystok,PiS,54,Jacek.Sasin@sejm.pl
@@ -332,13 +332,13 @@ Anna Schmidt,22 Krosno,PiS,45,Anna.Schmidt@sejm.pl
 Jarosław Sellin,25 Gdańsk,PiS,61,Jaroslaw.Sellin@sejm.pl
 Olga Ewa Semeniuk-Patkowska,35 Olsztyn,PiS,35,Olga.Semeniuk-Patkowska@sejm.pl
 Edward Siarka,14 Nowy Sącz,PiS,60,Edward.Siarka@sejm.pl
-Krystyna Sibińska,8 Zielona Góra,KO,61,Krystyna.Sibinska@sejm.pl
+Krystyna Sibińska,8 Zielona Góra,KO,62,Krystyna.Sibinska@sejm.pl
 Czesław Siekierski,33 Kielce,PSL-TD,71,Czeslaw.Siekierski@sejm.pl
 Rafał Siemaszko,26 Słupsk,KO,37,Rafal.Siemaszko@sejm.pl
 Tomasz Siemoniak,21 Opole,KO,56,Tomasz.Siemoniak@sejm.pl
 Bartłomiej Sienkiewicz,13 Kraków,KO,62,Bartlomiej.Sienkiewicz@sejm.pl
-Arkadiusz Sikora,1 Legnica,Lewica,50,Arkadiusz.Sikora@sejm.pl
-Włodzimierz Skalik,21 Opole,Konfederacja,64,Wlodzimierz.Skalik@sejm.pl
+Arkadiusz Sikora,1 Legnica,Lewica,51,Arkadiusz.Sikora@sejm.pl
+Włodzimierz Skalik,21 Opole,Konfederacja,65,Wlodzimierz.Skalik@sejm.pl
 Marcin Skonieczka,5 Toruń,Polska2050-TD,45,Marcin.Skonieczka@sejm.pl
 Krystyna Skowrońska,23 Rzeszów,KO,69,Krystyna.Skowronska@sejm.pl
 Sławomir Skwarek,6 Lublin,PiS,60,Slawomir.Skwarek@sejm.pl
@@ -358,8 +358,8 @@ Dariusz Stefaniuk,7 Chełm,PiS,43,Dariusz.Stefaniuk@sejm.pl
 Franciszek Sterczewski,39 Poznań,KO,36,Franciszek.Sterczewski@sejm.pl
 Piotr Paweł Strach,29 Katowice,Polska2050-TD,42,Piotr.Strach@sejm.pl
 Mirosław Suchoń,27 Bielsko-Biała,Polska2050-TD,48,Miroslaw.Suchon@sejm.pl
-Marek Suski,17 Radom,PiS,65,Marek.Suski@sejm.pl
-Paweł Suski,40 Koszalin,KO,59,Pawel.Suski@sejm.pl
+Marek Suski,17 Radom,PiS,66,Marek.Suski@sejm.pl
+Paweł Suski,40 Koszalin,KO,60,Pawel.Suski@sejm.pl
 Artur Szałabawka,41 Szczecin,PiS,56,Artur.Szalabawka@sejm.pl
 Wojciech Szarama,29 Katowice,PiS,68,Wojciech.Szarama@sejm.pl
 Wiesław Szczepański,36 Kalisz,Lewica,64,Wieslaw.Szczepanski@sejm.pl
@@ -371,8 +371,8 @@ Andrzej Szejna,33 Kielce,Lewica,51,Andrzej.Szejna@sejm.pl
 Andrzej Szewiński,28 Częstochowa,KO,54,Andrzej.Szewinski@sejm.pl
 Adam Szłapka,39 Poznań,KO,39,Adam.Szlapka@sejm.pl
 Henryk Szopiński,38 Piła,KO,61,Henryk.Szopinski@sejm.pl
-Paweł Szrot,4 Bydgoszcz,PiS,48,Pawel.Szrot@sejm.pl
-Krystyna Szumilas,29 Katowice,KO,67,Krystyna.Szumilas@sejm.pl
+Paweł Szrot,4 Bydgoszcz,PiS,49,Pawel.Szrot@sejm.pl
+Krystyna Szumilas,29 Katowice,KO,68,Krystyna.Szumilas@sejm.pl
 Stanisław Szwed,27 Bielsko-Biała,PiS,69,Stanislaw.Szwed@sejm.pl
 Ewa Szymanowska,9 Łódź,Polska2050-TD,46,Ewa.Szymanowska@sejm.pl
 Tomasz Szymański,5 Toruń,KO,46,Tomasz.Szymanski@sejm.pl
@@ -444,7 +444,7 @@ Adrian Zandberg,19 Warszawa,Lewica,44,Adrian.Zandberg@sejm.pl
 Andrzej Tomasz Zapałowski,22 Krosno,Konfederacja,57,Andrzej.Zapalowski@sejm.pl
 Bartosz Zawieja,39 Poznań,KO,46,Bartosz.Zawieja@sejm.pl
 Marcelina Zawisza,21 Opole,Lewica,35,Marcelina.Zawisza@sejm.pl
-Sławomir Zawiślak,7 Chełm,PiS,60,Slawomir.Zawislak@sejm.pl
+Sławomir Zawiślak,7 Chełm,PiS,61,Slawomir.Zawislak@sejm.pl
 Bogdan Andrzej Zdrojewski,3 Wrocław,KO,67,Bogdan.Zdrojewski@sejm.pl
 Witold Zembaczyński,21 Opole,KO,43,Witold.Zembaczynski@sejm.pl
 Piotr Zgorzelski,16 Płock,PSL-TD,60,Piotr.Zgorzelski@sejm.pl
@@ -458,11 +458,35 @@ Zbigniew Ziobro,23 Rzeszów,PiS,53,Zbigniew.Ziobro@sejm.pl
 Wojciech Michał Zubowski,1 Legnica,PiS,44,Wojciech.Zubowski@sejm.pl
 Ireneusz Zyska,2 Wałbrzych,PiS,54,Ireneusz.Zyska@sejm.pl
 Bożena Żelazowska,20 Warszawa,PSL-TD,53,Bozena.Zelazowska@sejm.pl
-Anna Maria Żukowska,19 Warszawa,Lewica,40,Anna.Zukowska@sejm.pl
-Anna Baluch,6 Lublin,PiS,50,Anna.Baluch@sejm.pl
+Anna Maria Żukowska,19 Warszawa,Lewica,41,Anna.Zukowska@sejm.pl
+Anna Baluch,6 Lublin,PiS,51,Anna.Baluch@sejm.pl
 Magdalena Łośko,4 Bydgoszcz,KO,39,Magdalena.Losko@sejm.pl
-Monika Pawłowska,7 Chełm,niez.,40,Monika.Pawlowska@sejm.pl
-Alicja Łuczak,36 Kalisz,KO,62,Alicja.Luczak@sejm.pl
-Dominik Jaśkowiec,13 Kraków,KO,46,Dominik.Jaskowiec@sejm.pl
+Monika Pawłowska,7 Chełm,PiS,41,Monika.Pawlowska@sejm.pl
+Alicja Łuczak,36 Kalisz,KO,63,Alicja.Luczak@sejm.pl
+Dominik Jaśkowiec,13 Kraków,KO,47,Dominik.Jaskowiec@sejm.pl
 Paweł Masełko,21 Opole,KO,43,Pawel.Maselko@sejm.pl
 Katarzyna Stachowicz,32 Katowice,KO,46,Katarzyna.Stachowicz@sejm.pl
+Lidia Czechak,36 Kalisz,PiS,48,Lidia.Czechak@sejm.pl
+Barbara Grygorcewicz,40 Koszalin,KO,60,Barbara.Grygorcewicz@sejm.pl
+Bożenna Hołownia,19 Warszawa,Polska2050-TD,70,Bozenna.Holownia@sejm.pl
+Urszula Koszutska,31 Katowice,KO,65,Urszula.Koszutska@sejm.pl
+Piotr Kowal,5 Toruń,Lewica,31,Piotr.Kowal@sejm.pl
+Michał Kowalski,26 Słupsk,PiS,48,Michal.Kowalski@sejm.pl
+Maria Joanna Koźlakiewicz,16 Płock,KO,39,Maria.Kozlakiewicz@sejm.pl
+Katarzyna Królak,34 Elbląg,KO,53,Katarzyna.Krolak@sejm.pl
+Wioletta Maria Kulpa,16 Płock,PiS,49,Wioletta.Kulpa@sejm.pl
+Grzegorz Macko,2 Wałbrzych,PiS,31,Grzegorz.Macko@sejm.pl
+Jerzy Meysztowicz,13 Kraków,KO,65,Jerzy.Meysztowicz@sejm.pl
+Krzysztof Mieszkowski,3 Wrocław,KO,68,Krzysztof.Mieszkowski@sejm.pl
+Anna Paluch,14 Nowy Sącz,PiS,64,Anna Paluch@sejm.pl
+Krzysztof Piątkowski,9 Łódź,KO,54,Krzysztof.Piatkowski@sejm.pl
+Mariusz Popielarz,18 Siedlce,KO,49,Mariusz.Popielarz@sejm.pl
+Magdalena Roguska,19 Warszawa,KO,44,Magdalena.Roguska@sejm.pl
+Marta Stożek,3 Wrocław,Lewica,47,Marta.Stozek@sejm.pl
+Krzysztof Szymański,26 Słupsk,Konfederacja,34,Krzysztof.Szymanski@sejm.pl
+Włodzimierz Tomaszewski,9 Łódź,PiS,67,Wlodzimierz.Tomaszewski@sejm.pl
+Maciej Tomczykiewicz,27 Bielsko-Biała,KO,36,Maciej.Tomczykiewicz@sejm.pl
+Jarosław Krajewski,19 Warszawa,PiS,41,Jaroslaw.Krajewski@sejm.pl
+Bożena Lisowska,6 Lublin,KO,61,Bozena.Lisowska@sejm.pl
+Michał Połuboczek,23 Rzeszów,Konfederacja,41,Michal.Poluboczek@sejm.gov.pl
+Aleksandra Kot,13 Kraków,KO,24,Aleksandra.Kot@sejm.pl
